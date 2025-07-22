@@ -30,7 +30,7 @@ A dedicated admin interface enables site administrators to manage users, listing
 **1. Clone this repository and navigate to it in your terminal.**
 
    ```bash
-   cd TUT15-G1-A2/
+   cd website/
    ```
 
 **2. Install dependencies for both backend and frontend scripts.**
