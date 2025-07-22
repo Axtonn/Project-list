@@ -2,8 +2,8 @@
 <div align="center">
     <img src="frontend/public/nokia.png" alt="Logo" width="60">
     <h3 align="center">OldPhoneDeals</h3>
-    <p align="center">
-        TUT15-G1-A2 · COMP4347
+    
+        
     </p>
 </div>
 
@@ -152,18 +152,3 @@ EMAIL_USER=axtoncahyadi@gmail.com
 EMAIL_PASS=bcww lcxs whni xfsd
 EMAIL_FROM=axtoncahyadi@gmail.com
 
-If this where a normal github project then this won't get uploaded for security,
-but in this case for the tutor to check our work, they must have the file with the above info.
-# Contact
-
-Created for COMP4347: Web Application Development at The University of Sydney in Semester One, 2025.
-
-```
-| name              | unikey   | 
-|-------------------|----------|
-| Antriksh Dhand    | adha5655 |
-| Axton Cahyadi     | acah2508 |
-| Emmanuel Mercado  | emer2478 |
-| Paul Zhang        | hzha8009 |
-| Isaac Emilsson    | iemi5301 |
-```
