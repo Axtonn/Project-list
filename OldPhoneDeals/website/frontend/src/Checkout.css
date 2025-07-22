@@ -1,0 +1,82 @@
+/* Main grey box */
+.checkout-container {
+    width: 700px;
+    background-color: #f9f9f9;
+    padding: 40px;
+    margin: 40px auto;
+    border-radius: 12px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    font-family: Arial, sans-serif;
+    color: black; 
+  }
+  
+  .checkout-container h1 {
+    margin-bottom: 24px;
+    color: black;
+    text-align: center;
+  }
+  
+  .checkout-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 24px;
+    color: black;
+  }
+  
+  .checkout-table th,
+  .checkout-table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+    text-align: left;
+    color: black;
+  }
+  
+  .checkout-table th {
+    background-color: #f0f0f0;
+    font-weight: bold;
+  }
+  
+  /* Quantity input */
+  .checkout-table input[type="number"] {
+    width: 60px;
+    padding: 4px;
+    font-size: 14px;
+    color: white;
+  }
+  
+  /* Total price */
+  .checkout-container h2 {
+    margin-top: 20px;
+    color: black;
+    text-align: right;
+  }
+  
+  /* Button container */
+  .checkout-container > div {
+    display: flex;
+    flex-direction: column;
+    gap: 12px;
+    margin-top: 24px;
+    align-items: center;
+  }
+  
+  /* Buttons */
+  .checkout-container button {
+    padding: 10px 20px;
+    font-size: 15px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #007bff;
+    color: white;
+    transition: background-color 0.2s ease;
+  }
+  
+  .checkout-container button:hover {
+    background-color: #0056b3;
+  }
+  
+  .checkout-container button img {
+    vertical-align: middle;
+  }
+  

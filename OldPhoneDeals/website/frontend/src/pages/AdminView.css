@@ -1,0 +1,30 @@
+.nav-style {
+  display: flex;
+  justify-content: space-between;
+}
+
+.log-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 1rem;
+  color: white;
+}
+
+.log-table th, .log-table td {
+  border: 1px solid white;
+  padding: 8px 12px;
+  text-align: left;
+}
+
+.log-table th {
+  background-color: #222;
+  font-weight: bold;
+}
+
+.log-table tr:nth-child(even) {
+  background-color: #333;
+}
+
+.adminview-container {
+  width: 90vw;
+}

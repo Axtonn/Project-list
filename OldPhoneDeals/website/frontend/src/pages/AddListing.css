@@ -1,0 +1,56 @@
+.add-listing-container {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 30px;
+  background-color: #f4f4f4;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  font-family: Arial, sans-serif;
+  color: black;
+}
+
+.add-listing-container h2 {
+  text-align: center;
+  color: #333;
+  margin-bottom: 24px;
+}
+
+.add-listing-container input,
+.add-listing-container select {
+  width: 100%;
+  padding: 10px 14px;
+  margin-bottom: 16px;
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  font-size: 14px;
+  box-sizing: border-box;
+}
+
+.add-listing-container input[type="file"] {
+  padding: 6px;
+}
+
+.add-listing-container button {
+  width: 100%;
+  padding: 12px;
+  background-color: #4CAF50;
+  border: none;
+  color: white;
+  font-size: 15px;
+  border-radius: 6px;
+  cursor: pointer;
+  margin-bottom: 12px;
+  transition: background-color 0.2s ease;
+}
+
+.add-listing-container button:hover {
+  background-color: #45a049;
+}
+
+.add-listing-container button:last-child {
+  background-color: #999;
+}
+
+.add-listing-container button:last-child:hover {
+  background-color: #777;
+}

@@ -1,0 +1,47 @@
+.users-container {
+  width: 90vw;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px 24px;
+}
+
+.user-card {
+  min-height: 200px;
+  width: 300px;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 16px;
+  background-color: #f9f9f9;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  color: black;
+}
+
+.user-entry {
+  min-width: 200px;
+}
+
+.user-label {
+  font-weight: 600;
+}
+
+.floating-window {
+
+  width: 90vw;
+  background: white;
+  border: 1px solid #ddd;
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  padding: 16px;
+  z-index: 1;
+  color: black;
+}
+
+.close-btn {
+  color: black;
+  float: right;
+  border: none;
+  background: transparent;
+  font-size: 18px;
+  cursor: pointer;
+}

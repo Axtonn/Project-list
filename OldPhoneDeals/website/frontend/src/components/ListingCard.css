@@ -1,0 +1,133 @@
+
+.listing-card {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #ffffff;
+  border-radius: 6px;
+  padding: 15px;
+  margin: 10px auto;
+  width: 90%;
+  max-width: 800px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+}
+
+.listing-card img {
+  width: 80px;
+  height: 80px;
+  object-fit: contain;
+  border-radius: 6px;
+  margin-right: 12px;
+}
+
+.listing-select {
+  width: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.listing-image {
+  width: 60px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-right: 15px;
+}
+
+.listing-image img {
+  width: 100%;
+  height: auto;
+  object-fit: contain;
+}
+
+.listing-name {
+  flex: 1;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-size: 0.95rem;
+  text-align: center;
+}
+
+.listing-name h4 {
+  margin: 0;
+  color: #111;
+}
+
+.listing-price,
+.listing-quantity {
+  width: 100px;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-size: 0.85rem;
+}
+
+.listing-price p,
+.listing-quantity p {
+  margin: 0;
+  font-size: 0.7rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  color: #444;
+}
+
+.listing-rating {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+}
+
+.star {
+  color: #ccc;
+  font-size: 1.2rem;
+}
+
+.star.filled {
+  color: #FFD700;
+}
+
+.action-button {
+  background-color: #fff;
+  color: #000;
+  font-weight: bold;
+  padding: 10px 16px;
+  margin: 5px;
+  border-radius: 20px;
+  border: 1px solid #ccc;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.action-button:hover {
+  background-color: #f1f1f1;
+}
+
+
+.manage-listings-tab h2 {
+  text-align: center;
+  color: #000;
+  font-size: 1.4rem;
+  margin-bottom: 20px;
+}
+
+
+.listing-status {
+  display: inline-block;
+  margin-top: 4px;
+  padding: 4px 10px;
+  border-radius: 12px;
+  font-size: 0.7rem;
+  font-weight: bold;
+  color: #fff;
+  text-align: center;
+}
+
+.listing-status.enabled {
+  background-color: #4CAF50; 
+}
+
+.listing-status.disabled {
+  background-color: #FF4D4D;
+}

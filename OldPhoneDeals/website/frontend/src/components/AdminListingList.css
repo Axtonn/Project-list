@@ -1,0 +1,61 @@
+.listings-container {
+  width: 90vw;
+  display: flex;
+  flex-direction: column;
+  align-items: center; 
+  gap: 12px;  
+}
+
+.listing-card {
+  flex-wrap: wrap;
+  flex-direction: column;
+  align-items: flex-start;
+  color: black;
+  width: 100%; 
+  max-width: 600px;
+  overflow: hidden;
+  box-sizing: border-box;
+}
+
+.listing-card label {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 8px;
+  color: black;
+  width: 100%;
+  max-width: 300px;
+}
+
+.listing-card input {
+  padding: 6px;
+  margin-top: 4px;
+  font-size: 14px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.listing-card button {
+  margin-right: 10px;
+  margin-top: 10px;
+  padding: 6px 12px;
+  background-color: #4caf50;
+  border: none;
+  border-radius: 4px;
+  color: white;
+  cursor: pointer;
+}
+
+.listing-card button:hover {
+  background-color: #45a049;
+}
+
+.wide-container {
+  width: 100%;
+  max-width: 900px;   /* or any desired fixed width */
+  display: flex;
+  flex-direction: column;
+  align-items: stretch;
+
+}

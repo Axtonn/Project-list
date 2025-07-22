@@ -1,0 +1,83 @@
+.auth-wrapper {
+  padding: 0;
+  margin: 0;
+  font-family: 'Fira Code', monospace;
+  background: linear-gradient(to right, #132f3f 30%, #16150e 30%);
+  height: 100vh;
+  width: 100vw;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.auth-input,.auth-button-style {
+  all: unset;
+  padding: 8px 4px; /* inlined padding */
+  width: 100%;
+  font-size: 16px;
+  transition: border-color 0.7s ease; /* inlined transition */
+  cursor: pointer;
+  border-bottom: 2px solid white; /* inlined border */
+}
+
+/* updates the highlight color for the document */
+::selection {
+  background: #ffd44a;
+  color: #000;
+}
+
+/* formatting for form */
+.auth-input-container {
+  width: 100%;
+  max-width: 400px;
+  opacity: 1;
+  transform: 0;
+  transition: transform 0.7s ease, opacity 0.7s ease; /* inlined transition */
+  text-align: left;
+}
+
+/* give font color to all div and buttons */
+.auth-input-container > div,
+.auth-button-style {
+  margin-bottom: 20px;
+  color: aliceblue;
+}
+
+/* formatting for button */
+.auth-button-style {
+  border: 2px solid #fff;
+  border-radius: 8px;
+  transition: all 0.7s ease; /* inlined transition */
+  position: relative;
+  z-index: 1;
+  overflow: hidden;
+}
+
+/* button background animation */
+.auth-button-style::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -100%;
+  width: 100%;
+  height: 100%;
+  background: linear-gradient(120deg, #5fbff7, #ffd44a);
+  transition: all 0.7s ease; /* inlined transition */
+  z-index: -1;
+}
+
+/* hover effect */
+.auth-button-style:hover::before {
+  left: 0;
+}
+
+.auth-button-style:hover {
+  color: #000 !important;
+  font-weight: bold;
+  border-color: transparent;
+}
+
+.auth-redirect{
+  color:  #5fbff7;
+  cursor: pointer;
+}

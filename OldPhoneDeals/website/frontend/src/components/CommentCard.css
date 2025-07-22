@@ -1,0 +1,82 @@
+.comment-card {
+  display: flex;
+  flex-direction: column;
+  min-width: 60%;
+  margin: auto;
+  margin-bottom: 20px;
+  background-color: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 6px;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  padding: 15px;
+}
+
+.product-image {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.product-image img {
+  max-width: 100%;
+  max-height: 150px;
+  object-fit: contain;
+}
+
+.comments-container {
+  background-color: #fafafa;
+  border-radius: 4px;
+  padding: 15px;
+}
+
+.comments-text {
+  margin-bottom: 10px;
+}
+
+.comments-text p {
+  margin: 0;
+  font-style: italic;
+  color: #333;
+  text-align: center;
+}
+
+.comment-block {
+  margin-bottom: 12px;
+  text-align: center;
+}
+
+.comment-block p {
+  margin: 4px 0;
+  color: #222;
+}
+
+.comment-block small {
+  color: #555;
+}
+
+.comment-block span {
+  font-weight: bold;
+  font-size: 0.85rem;
+}
+
+.see-more {
+  display: flex;
+  justify-content: center;
+}
+
+.see-more button {
+  padding: 6px 16px;
+  background-color: #333;
+  border: none;
+  border-radius: 20px;
+  cursor: pointer;
+  font-size: 0.85rem;
+  color: #fff;
+  transition: background-color 0.2s ease;
+}
+
+.see-more button:hover {
+  background-color: #555;
+}
