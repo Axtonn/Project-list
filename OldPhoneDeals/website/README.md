@@ -2,9 +2,6 @@
 <div align="center">
     <img src="frontend/public/nokia.png" alt="Logo" width="60">
     <h3 align="center">OldPhoneDeals</h3>
-    
-        
-    </p>
 </div>
 
 <br />
