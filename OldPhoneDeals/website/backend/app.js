@@ -11,7 +11,7 @@ const app = express();
 const PORT = 3000;
 
 app.use(cors({
-  origin: 'http://localhost:5173',   // your frontend URL
+  origin: 'https://4e91484c15eb.ngrok-free.app',   // your frontend URL
   credentials: true                  // allow cookies to be sent
 }));
 
