@@ -1,0 +1,1499 @@
+institution_id,institution_name,institution_type
+00001K,Canberra Institute of Technology,Government
+00002J,Macquarie University (Macquarie),Government
+00003G,University of New England,Government
+00004G,Australian Catholic University Limited,Government
+00005F,Charles Sturt University (CSU),Government
+00008C,Monash University (Monash),Government
+00011G,Gordon Institute of TAFE,Government
+00012G,Holmesglen Institute,Government
+00017B,Bond University,Private
+00018A,Department for Education,Government
+00020G,Department of Training and Workforce Development,Government
+00025B,The University of Queensland,Government
+00026A,The University of Sydney,Government
+00040C,Holmes Colleges Sydney Pty Ltd,Private
+00051M,ELC Career College Pty Ltd,Private
+00053J,Universal Education Centre Pty Ltd,Private
+00057E,Alexander Language School Pty Ltd,Private
+00061J,Milner International College of English (WA) Pty Ltd,Private
+00066D,Keyseq Pty Ltd,Private
+00067C,Holmes Commercial Colleges (Melbourne) Ltd,Private
+00080F,You Study Pty Ltd,Private
+00092B,TAFE SA,Government
+00094M,South Australian College of English Pty Ltd,Private
+00098G,The University of New South Wales (UNSW),Government
+00099F,University of Technology Sydney (UTS),Government
+00102E,University of Wollongong (UoW),Government
+00103D,Federation University Australia,Government
+00109J,The University of Newcastle (UoN),Government
+00111D,Swinburne University of Technology,Government
+00113B,Deakin University (Deakin),Government
+00114A,Flinders University,Government
+00115M,La Trobe University (La Trobe),Government
+00116K,The University of Melbourne (UniMelb),Government
+00117J,James Cook University,Government
+00120C,Australian National University,Government
+00121B,University of South Australia (UniSA),Government
+00122A,Royal Melbourne Institute of Technology,Government
+00123M,The University of Adelaide (Adelaide),Government
+00124K,Victoria University,Government
+00125J,Murdoch University (Murdoch),Government
+00126G,The University of Western Australia (UWA),Government
+00129E,Ballarat and Queen's Anglican Grammar School,Private
+00131M,Billanook College Limited,Private
+00132K,Brighton Grammar School,Private
+00134G,The Camberwell Grammar School,Private
+00135G,Carey Baptist Grammar School Limited,Private
+00136F,Caulfield Grammar School,Private
+00138D,Eltham College,Private
+00139C,Fintona Girls School,Private
+00140K,Firbank Grammar School,Private
+00141J,Camberwell Anglican Girls' Grammar School,Private
+00142G,The Geelong College,Private
+00143G,Geelong Grammar School,Private
+00144F,The Hamilton and Alexandra College,Private
+00145E,Huntingtower School Association,Private
+00147C,The Ivanhoe Grammar School,Private
+00149A,Kilvington Grammar School Limited,Private
+00150G,Kingswood College Limited,Private
+00151G,The Knox School Limited,Private
+00152F,Lauriston Girls' School,Private
+00159K,Waterfall Investments Pty Ltd,Private
+00161E,Kent Institute Australia Pty Ltd,Private
+00172B,Mercury Colleges Pty. Limited,Private
+00181A,Lan-Grove Office Training Centre Pty Ltd,Private
+00197D,Acknowledge Education Pty Ltd,Private
+00202A,Cairns Business College Limited,Private
+00212K,University of Canberra,Government
+00213J,Queensland University of Technology (QUT),Government
+00219C,Central Queensland University,Government
+00231G,Australian College of Natural Medicine Pty Ltd,Private
+00233E,Griffith University,Government
+00244B,University of Southern Queensland,Government
+00246M,Think: Colleges Pty Ltd,Private
+00253A,The Australian Ballet School,Private
+00257G,Photography Holdings Pty Ltd,Private
+00277D,Royal Victorian Aero Club,Private
+00279B,Edith Cowan University,Government
+00289M,Navitas English Services Pty Ltd,Private
+00296A,Airways Aviation Education Pty Ltd,Private
+00300K,Charles Darwin University (CDU),Government
+00301J,Curtin University,Government
+00306D,Marcus Oldham College,Private
+00312F,SAE Institute Pty Ltd,Private
+00322D,Melbourne Girls Grammar - An Anglican School,Private
+00323C,Mentone Grammar School,Private
+00324B,Mentone Girls Grammar School,Private
+00325A,Methodist Ladies' College Limited,Private
+00331C,Life Ministry Centre Limited,Private
+00333A,The Peninsula School,Private
+00334M,Presbyterian Ladies' College,Private
+00336J,Ruyton,Private
+00339F,Shelford Girls' Grammar,Private
+00340B,Gippsland Grammar,Private
+00341A,King's Christian Education Ltd.,Private
+00343K,St Leonard's College,Private
+00344J,St Margaret's School,Private
+00345G,St Michael's Grammar School,Private
+00348E,Tintern Grammar,Private
+00349D,Toorak College,Private
+00350M,Trinity Grammar School Kew,Private
+00354G,Wesley College Melbourne,Private
+00355F,Westbourne Grammar School,Private
+00356E,Yarra Valley Grammar School,Private
+00360J,Concordia College Inc,Private
+00362G,Immanuel College,Private
+00365D,Mercedes College Springfield,Private
+00366C,Muirden Senior Secondary College,Private
+00367B,Pembroke School Inc,Private
+00368A,Prince Alfred College Inc,Private
+00369M,Pulteney Grammar School,Private
+00371F,St Aloysius College,Private
+00373D,St Peter's Collegiate Girls' School,Private
+00374C,Trinity College - North,Private
+00375B,Wilderness School,Private
+00379J,St Paul's International College,Private
+00380E,Ascham School Ltd,Private
+00382C,Georges River Grammar School Ltd,Private
+00399E,Knox Grammar School,Private
+00401E,Masada College,Private
+00415K,Redeemer Baptist School Ltd,Private
+00428E,Edmund Rice Education Australia Colleges Ltd,Private
+00431K,Bunbury Cathedral Grammar School Inc,Private
+00433G,Christ Church Grammar School Inc,Private
+00437D,Guildford Grammar School Inc,Private
+00438C,The Governors of Hale School,Private
+00441G,Methodist Ladies' College,Private
+00444E,Penrhos College,Private
+00445D,Perth College Inc,Private
+00447B,Presbyterian Ladies College Incorporated,Private
+00449M,Scotch College,Private
+00451F,Mercy Education Limited,Private
+00452E,St Hilda's Anglican School for Girls Inc.,Private
+00454C,St Mary's Anglican Girls' School Inc,Private
+00459J,Swan Christian Education Association Inc,Private
+00460E,Wesley College,Private
+00463B,Canning College,Government
+00466K,St John's Catholic College,Private
+00476G,Fahan School,Private
+00477G,The Friends' School Incorporated,Private
+00478F,HUTCHINS SCHOOL BOARD OF MANAGEMENT,Private
+00480A,SCOTCH OAKBURN COLLEGE,Private
+00482K,ST MICHAEL'S COLLEGIATE SCHOOL,Private
+00487E,The Corporation of the Synod of the Diocese of Brisbane,Private
+00488D,Blackheath and Thornburgh College,Private
+00489C,Board of Trustees of the Brisbane Grammar School,Private
+00491J,The Presbyterian and Methodist Schools Association,Private
+00493G,The Presbyterian and Methodist Schools Association,Private
+00494F,Downlands College Ltd,Private
+00496D,The Corporation of the Synod of the Diocese of Brisbane - The Glennie School,Private
+00499A,Board of Trustees of the Ipswich Grammar School,Private
+00500B,John Paul College Limited,Private
+00503K,Lourdes Hill College,Private
+00506G,The Roman Catholic Trust Corporation for the Diocese of Rockhampton,Private
+00507F,Board of Trustees of the Rockhampton Grammar School,Private
+00508E,Board of the Trustees of the Rockhampton Girls' Grammar School,Private
+00509D,The Roman Catholic Trust Corporation for the Diocese of Cairns,Private
+00510M,The Corporation of the Synod of the Diocese of Brisbane - St Hilda's School,Private
+00511K,St Margaret's School Council Ltd,Private
+00515F,The Corporation of the Synod of the Diocese of Brisbane,Private
+00516E,Lutheran Church of Australia - Queensland District,Private
+00517D,Corporation of the Roman Catholic Diocese of Toowoomba,Private
+00521G,Somerset College Limited,Private
+00522G,The Presbyterian and Methodist Schools Association,Private
+00523F,The Corporation of the Synod of the Diocese of Brisbane,Private
+00524E,Stuartholme School,Private
+00525D,Board of Trustees of the Toowoomba Grammar School,Private
+00533D,Board of Trustees of the Ipswich Girls' Grammar School,Private
+00537M,The Uniting Church in Australia Property Trust (Q.),Private
+00539J,Christian Outreach Centre,Private
+00540E,Bethel Christian School Limited,Private
+00544A,Kinross Wolaroi School,Private
+00553M,St Philip's Christian Education Foundation Ltd,Private
+00557G,Ballarat and Clarendon College,Private
+00558F,Loyola College,Private
+00561M,Educational Enterprises Australia Pty Ltd,Private
+00563J,Walford Anglican School for Girls,Private
+00564G,Board of Trustees of the Townsville Grammar School,Private
+00572G,Edmund Rice Education Australia Colleges Ltd,Private
+00574F,St. Catherine's School,Private
+00577C,Strathcona Baptist Girls Grammar School Limited,Private
+00578B,Heathdale Christian College Limited,Private
+00580G,Canberra Grammar School,Private
+00581G,Lutheran Church of Australia - Queensland District,Private
+00586B,University of Tasmania (UTas),Government
+00588M,NSW Department of Education,Government
+00589K,Mater Christi College,Private
+00591E,Technical and Further Education Commission,Government
+00602G,Westminster School Inc,Private
+00603F,Saint Ignatius' College,Private
+00607B,Sarina Russo Schools Australia Pty Ltd,Private
+00608A,Department of Education,Government
+00615B,Scotch College,Private
+00617M,Monivae College,Private
+00620E,St Patricks College Ballarat,Private
+00624A,Scotch College,Private
+00628G,Seymour College Inc,Private
+00629G,Loreto College,Private
+00643J,ACT Education Directorate,Government
+00649C,Haileybury,Private
+00650K,LAUNCESTON CHURCH GRAMMAR SCHOOL,Private
+00663E,Queensland School of Beauty Therapy Pty Ltd,Private
+00665C,The Australian Institute of Music Limited,Private
+00670F,Marist Schools Australia Limited,Private
+00682B,Moore Theological College Council,Private
+00709G,Trinity College,Private
+00712A,The Corporation of the Synod of the Diocese of Brisbane,Private
+00713M,SCECGS Redlands Limited,Private
+00715J,Edmund Rice Education Australia Colleges Ltd,Private
+00724G,Melbourne Polytechnic,Government
+00743E,St Marys College Melbourne,Private
+00745C,Catholic Education Western Australia Limited,Private
+00756M,The National Institute of Dramatic Art (NIDA),Government
+00765K,Catholic Education Western Australia Limited,Private
+00770B,Trinity Anglican School Ltd,Private
+00772M,Sydney Church of England Grammar School Council,Private
+00780M,Department of Education,Government
+00859D,UTS College Limited,Private
+00861K,Department of Education,Government
+00871G,MERCY EDUCATION LIMITED,Private
+00874E,St Joseph's College,Private
+00878A,Lutheran Church of Australia - Queensland District,Private
+00881F,Chisholm Institute,Government
+00897J,The Pittwater House Schools Ltd,Private
+00898G,Holmes Commercial Colleges (Melbourne) Limited,Private
+00899G,The Institute of Creative Arts and Technology,Private
+00902F,A B Paterson College Limited,Private
+00909K,Brisbane Christian College,Private
+00917K,Western Sydney University,Government
+00923A,Redlands College Ltd,Private
+00956C,Cass Training Pty Ltd,Private
+00958A,Alphacrucis University College Limited,Private
+00959M,The Cathedral School of St Anne and St James,Private
+00969J,Seventh-Day Adventist Schools (South Queensland) Ltd,Private
+00971D,Haileybury Rendall School,Private
+00972C,Edmund Rice Education Australia Colleges Ltd,Private
+00974A,The Ivanhoe Girls Grammar School,Private
+00977J,Melbourne Grammar School,Private
+00978G,Seventh-Day Adventist Schools (Victoria) Limited,Private
+00979G,All Saints Anglican School Limited,Private
+00986G,Perth Bible College (Inc),Private
+00992K,Australian Islamic College (Perth) Inc,Private
+00993J,Whitsunday Anglican School Limited,Private
+00996F,Christian Outreach Centre,Private
+01016F,Christian Heritage College,Private
+01019C,University of Sydney,Government
+01020K,UNSW Global Pty Limited,Private
+01022G,Korowa Anglican Girls School,Private
+01031G,Rabbinical College of Australia and New Zealand,Private
+01032F,The University of Notre Dame Australia,Private
+01033E,Cairns Christian College Limited,Private
+01037A,University of Divinity,Private
+01038M,Chabad Institutions of Victoria Limited,Private
+01043C,Hillcrest Christian College Limited,Private
+01070M,EF International Language Schools Pty Ltd,Private
+01095B,Mueller College Ltd,Private
+01097M,Nazareth College,Private
+01100K,Girton Grammar School Ltd,Private
+01102G,St Dominic's Priory College,Private
+01108B,Australian Academy of Music and Performing Arts,Private
+01165D,Kaplan International English (Australia) Pty Limited,Private
+01194K,St Aidan's School Council Ltd,Private
+01218G,Bendigo Kangan Institute,Government
+01220B,Mackillop Catholic Regional College,Private
+01241G,Southern Cross University (SCU),Government
+01248A,Rivermount Education Ltd,Private
+01256A,The Presbyterian School of St Andrew Limited,Private
+01259J,JMC Pty Limited,Private
+01260E,Lutheran Church of Australia Queensland District,Private
+01272A,Australian International College of Language Pty Ltd,Private
+01294F,Canberra Girls' Grammar School,Private
+01302M,Flight One Australia Pty Ltd,Private
+01307F,SA Adelaide Language Centre Ltd,Private
+01312J,Edith Cowan College Pty Ltd,Private
+01317D,The Corporation of the Synod of the Diocese of Brisbane,Private
+01328A,Navitas Professional Institute Pty Ltd,Private
+01329M,The Corporation of the Synod of the Diocese of Brisbane,Private
+01331F,Young Rabbit Pty Ltd,Private
+01351B,International College of Queensland Australia Pty Ltd,Private
+01376D,Alphington Grammar School,Private
+01378B,Seventh-day Adventist Schools (South Queensland) Ltd,Private
+01406C,FSAC Ltd,Private
+01434K,Caloundra Christian College Limited,Private
+01457C,Lutheran Church of Australia - Queensland District,Private
+01461G,Nambour Christian College Ltd,Private
+01474B,Ella Bache College Pty Ltd,Private
+01484M,"International College of Management, Sydney Pty Limited",Private
+01488G,Hellenic Community of WA Inc,Private
+01494J,The Corporation of the Trustees of the Roman Catholic Archdiocese of Brisbane,Private
+01497F,Focal Holdings Pty Ltd,Private
+01502C,Kardinia International College (Geelong) Ltd,Private
+01505M,William Angliss Institute of TAFE,Government
+01515J,QIBA Pty Ltd,Private
+01529C,The Lake Joondalup Baptist College Inc,Private
+01532G,Hillsong College Ltd,Private
+01535E,The Anglican Church of Australia Collegiate School of Saint Peter,Private
+01536D,Prescott College Southern,Private
+01544D,Actors College of Theatre and Television Pty Ltd,Private
+01545C,Melbourne Institute of Technology Pty Ltd,Private
+01551E,Australian National Memorial Theatre Ltd,Private
+01552D,Basair Australia Pty Ltd,Private
+01576G,Sydney Institute of Business and Technology Pty Ltd,Private
+01577F,Australian Baptist Education Inc,Private
+01589B,Baptist Business College Ltd,Private
+01590J,Melbourne Institute of Business & Technology Pty Ltd,Private
+01592G,The Corporation of the Synod of the Diocese of Brisbane - Fraser Coast Anglican College,Private
+01595D,University of the Sunshine Coast,Government
+01600A,Queensland College of Dance,Private
+01609C,Canterbury College Limited,Private
+01611J,Prescott College,Private
+01632D,Sunshine Coast English College Pty Ltd,Private
+01645K,Woodcroft College,Private
+01647G,Holmes Colleges Queensland Pty Ltd,Private
+01664G,Heights College Ltd,Private
+01678A,Language Studies International Australia Pty Ltd,Private
+01679M,Hope of the Gold Coast Ltd,Private
+01682E,Navitas Australia,Private
+01688K,Kennedy Baptist College Association Inc.,Private
+01697J,International Education Services Ltd,Private
+01701G,Gills College Australia Pty Ltd,Private
+01709K,Biba Academy of Hair & Beauty Pty Ltd,Private
+01718J,CIC Higher Education Pty Ltd,Private
+01723A,Department of Education,Government
+01737F,Queensland Institute of Business and Technology Pty Ltd,Private
+01742J,Becker Helicopter Services Pty Ltd,Private
+01748C,Matthew Flinders Anglican College Limited,Private
+01751G,Tenison Woods College,Private
+01758A,Tasmanian College of English Pty Ltd,Private
+01768K,Sydney Institute of Health Sciences Pty Ltd,Private
+01774A,ASHT Pty Ltd,Private
+01796F,Cambridge Academy of English Pty Ltd,Private
+01799C,Northside Christian College,Private
+01812M,Melbourne Rudolf Steiner Seminar Limited,Private
+01822J,ACPE Limited,Private
+01850E,Seventh-day Adventist Schools (Western Australia) Limited,Private
+01854A,Dentos Pty Ltd,Private
+01855M,Kingsway Christian Education Association Inc.,Private
+01856K,Wells International College Pty Ltd,Private
+01857J,Monash College Pty Ltd,Private
+01859G,Headmasters Academy Pty Ltd,Private
+01867G,Australian Education Group Pty Ltd,Private
+01880K,C3 Church Sydney Ltd,Private
+01884F,Dance Factory Pty Ltd,Private
+01888B,Asian Pacific Institute,Private
+01894D,Christian Resource Ministries Incorporated,Private
+01899K,Canterbury Business College Pty Ltd,Private
+01905F,Oceania Polytechnic Institute of Education Pty. Ltd.,Private
+01912G,RMIT Training Pty Ltd,Private
+01917B,Infotech Professionals Pty Ltd,Private
+01933B,Tristar Aviation Company Pty Ltd,Private
+01938G,Saint Stephen's College Ltd,Private
+01941B,Cairns Beauty Academy Pty Ltd,Private
+01942A,Caprock International Pty Ltd,Private
+01953J,Clarendon Business College Pty Ltd,Private
+01958D,Waverley Christian College Inc,Private
+01968B,Thomas Carr College Tarneit,Private
+01984B,Association for Christian Education Inc.,Private
+01985A,Sunraysia Institute of TAFE,Government
+01994M,Magill College Pty Ltd,Private
+02015K,Bureau of Meteorology,Government
+02025G,All Souls St Gabriels School Inc,Private
+02026G,Youth with a Mission Canberra Inc.,Private
+02028E,Supreme Business College Pty Ltd,Private
+02029D,All Saints' College Inc.,Private
+02035F,Intech Institute of Technology Pty Ltd,Private
+02042G,Colleges of Business and Technology (WA) Pty Ltd,Private
+02044E,Victorian Institute of Technology Pty Ltd,Private
+02103K,Clip Joint Academy of Hairdressing Pty Ltd as trustee for The EDC Unit Trust,Private
+02117D,Speak College Pty Ltd,Private
+02123F,Youth with a Mission (Perth) Inc,Private
+02137M,ILSC (Brisbane) Pty Ltd,Private
+02139J,Language Links International Pty Ltd,Private
+02140E,Sydney School of Business and Technology Pty Ltd,Private
+02155J,Academy of Interactive Technology,Private
+02160A,Unity College Australia Incorporated,Private
+02177C,Sheldon College Ltd,Private
+02184D,Caroline Chisholm Catholic College,Private
+02189K,Ormiston College Ltd,Private
+02193C,South Australian Institute of Business and Technology Pty Ltd,Private
+02200J,Victory Life International Bible Training Centre Incorporated,Private
+02201G,LCI Melbourne Pty Ltd,Private
+02205D,YWAM Townsville Assoc. Inc.,Private
+02209M,Our Lady of the Sacred Heart College,Private
+02214C,Inter-Continental Colleges Pty Ltd,Private
+02224A,Leo Cussen Institute,Private
+02225M,University of Southern Queensland,Government
+02227J,Mercy Diocesan College,Private
+02233M,Sheila Baxter Training Centre Pty Ltd,Private
+02260G,The Hills Grammar School,Private
+02266B,THE ATHENA SCHOOL LIMITED,Private
+02267A,St Paul's Grammar School Penrith Ltd,Private
+02268M,Kincoppal - Rose Bay School,Private
+02269K,The Council of Macarthur Anglican School,Private
+02270F,The Council of Abbotsleigh,Private
+02273C,The Association for Christian Education of Blacktown Ltd,Private
+02274B,The Uniting Church in Australia Property Trust (Synod of Victoria and Tasmania),Private
+02275A,Wenona School Ltd,Private
+02276M,The Council of St Andrew's Cathedral School,Private
+02277K,The Presbyterian Church (New South Wales) Property Trust,Private
+02280D,The Presbyterian Church (New South Wales) Property Trust,Private
+02282B,Glenaeon Rudolf Steiner School Limited,Private
+02284M,Kambala,Private
+02285K,The Armidale School,Private
+02287G,The Presbyterian Church (New South Wales) Property Trust,Private
+02290B,Council of Newington College,Private
+02293K,The McDonald College Limited,Private
+02295G,The Presbyterian Church (New South Wales) Property Trust,Private
+02298E,Cranbrook School,Private
+02300E,The Council of The Illawarra Grammar School,Private
+02301D,St John's Grammar School Inc,Private
+02306K,Ravenswood School For Girls,Private
+02308G,The Council of Trinity Grammar School,Private
+02312A,Blue Mountains Grammar School Ltd,Private
+02315J,The William Branwhite Clarke College Council,Private
+02316G,Calrossy Anglican School,Private
+02318F,Meriden School,Private
+02320A,The Council of Tara Anglican School for Girls,Private
+02322K,"The Council of St Catherine's School, Waverley",Private
+02326F,The Council of the King's School,Private
+02328D,MLC School,Private
+02333G,Bishop Druitt College Council Inc,Private
+02340G,Pacific Group of Christian Schools Limited,Private
+02342F,Coptic Orthodox Church (NSW) Property Trust,Private
+02344D,Newcastle Grammar School Ltd,Private
+02353C,Sydney English Academy Pty Ltd,Private
+02362B,Lexis Sydney Education Pty Ltd,Private
+02368G,PAXMIL Education Holdings Pty Ltd,Private
+02370B,Dynamic Management Group Pty Ltd,Private
+02375G,University Senior College at Adelaide University Inc,Private
+02379D,German School Johannes Gutenberg,Private
+02380M,Le Cordon Bleu Australia Pty Limited,Private
+02392G,A.M.T. Helicopters Pty Ltd,Private
+02398A,Academies Australasia Institute Pty Limited,Private
+02399M,Academy of English Pty Ltd,Private
+02401M,Australian International High School Pty Limited,Private
+02402K,Endeavour College Inc,Private
+02403J,The Queensland Institute of Commerce and Technology Pty Ltd,Private
+02406F,The Academy of Interactive Entertainment Ltd,Private
+02408D,Australian College of Technology Pty Ltd,Private
+02411J,Box Hill Institute,Government
+02423E,The Corporation of the Synod of the Diocese of Brisbane,Private
+02425C,Aviation Australia Pty Ltd,Government
+02426B,Kaplan Business School Pty Ltd,Private
+02427A,Ozford College Pty Ltd,Private
+02439G,Academies Australasia Polytechnic Pty Limited,Private
+02447G,The Corporation of the Synod of the Diocese of Brisbane,Private
+02448G,Alia College Ltd,Private
+02449F,Emmanuel Anglican College Council,Private
+02450B,Education Access (Australia) Pty Ltd,Private
+02462J,Burleigh Heads Language Centre Pty Ltd,Private
+02468C,Geraldton Grammar School Inc.,Private
+02471G,Manageering Pty Ltd,Private
+02475D,Victoria University,Government
+02483D,Australian Child Care Career Options (ACCCO) Pty Ltd,Private
+02485B,Blackfriars Priory School,Private
+02491D,Top Education Group Ltd,Private
+02494A,Rabarl Pty Ltd,Private
+02499G,Shane Global Village Brisbane Pty Ltd,Private
+02500G,Whitsundays College of English Pty Ltd,Private
+02501G,Ozford English Language Centre Pty Ltd,Private
+02506B,Australian National Institute of Business & Technology Pty Ltd,Private
+02522B,ACMUSE Australia Pty Ltd,Private
+02527G,The Moerlina School Inc.,Private
+02529F,Union Institute of Language - Springfield Campus Pty Ltd,Private
+02530B,Moorabbin Aviation Services Pty Ltd,Private
+02534J,USQ International College Pty Ltd,Private
+02537F,Presbyterian and Methodist Schools Association,Private
+02543G,Kingston International College Pty Ltd,Private
+02551G,English Language Company Australia Pty Ltd,Private
+02552G,Brighton Educational Services Pty Ltd,Private
+02564C,Elizabeth Bence Pty Ltd,Private
+02571D,Group Colleges Australia Pty Ltd,Private
+02598D,Our Lady of the Sacred Heart Catholic College,Private
+02599C,Australian Academy of Commerce Pty Ltd,Private
+02606J,AH & B College Pty Ltd,Private
+02607G,Business Institute of Australia Pty Ltd,Private
+02615G,Brisbane College of Australia Pty Ltd,Private
+02622J,Seventh-day Adventist Schools (Greater Sydney) Ltd,Private
+02623G,IH Sydney Training Services Pty Ltd,Private
+02634E,Australian Academy of Vocational Education and Trades Pty Ltd,Private
+02639M,Holmes Institute Pty Ltd,Private
+02644C,Education Centre of Australia Pty Ltd,Private
+02645B,A.I.W.T. Pty. Ltd.,Private
+02647M,Australian Performing Arts Grammar School Limited,Private
+02649J,Flight Training Adelaide Pty Ltd,Private
+02650E,Australian College of Theology Limited,Private
+02657J,Macquarie Education Group Australia Pty Ltd,Private
+02658G,Logic Entity Australia Pty Ltd,Private
+02660C,International Film School Sydney Pty Ltd,Private
+02663M,Browns English Language School Pty Ltd,Private
+02664K,Excelsia College,Private
+02668F,Pacific College Pty Ltd,Private
+02672K,Greenwich College Pty Ltd,Private
+02674G,Australian Association for International Education Inc,Private
+02678D,Victory Institute of Vocational Education Pty Ltd,Private
+02679C,Australian Online Institute Pty Ltd,Private
+02684F,George Education Group Pty Ltd,Private
+02695C,Imagine Education Australia Pty Ltd as trustee for The Imagine Education Australia Unit Trust,Private
+02708C,Seventh-Day Adventist Schools (South Queensland) Limited,Private
+02709B,Trinity College Senior School,Private
+02716C,Della International College Pty Ltd,Private
+02723D,UOWC Ltd,Private
+02724C,Australian International Islamic College Board Inc,Private
+02727M,Holmes Institute Pty Ltd,Private
+02731D,Avondale University,Private
+02736K,Strathfield College Pty Ltd,Private
+02737J,Institute of Training and Further Education Pty Ltd,Private
+02738G,Campion Institute Limited,Private
+02743M,LYCEE CONDORCET THE INTERNATIONAL FRENCH SCHOOL OF SYDNEY LTD,Private
+02746G,Australia Moreton Education Group Pty Ltd,Private
+02747G,Onyx Developments Pty Ltd,Private
+02748F,Jasagency Pty. Ltd.,Private
+02751M,UPC Pty Ltd,Private
+02754G,PGA OF Australia Institute Pty Ltd,Private
+02759C,Kooralbyn Campus Inc,Private
+02762G,Lifetime International.Com Pty Ltd,Private
+02763G,Queensland International Study Group Pty Ltd,Private
+02766D,Westminster College Pty Ltd,Private
+02767C,Holmes Institute Pty Ltd,Private
+02771G,Precept Education Pty Ltd,Private
+02778M,MIT Institute Pty Ltd,Private
+02790D,Hays International College Pty Ltd,Private
+02799F,St George College Inc,Private
+02800G,Warwick Institute of Australia Pty Ltd,Private
+02804C,EQUALS International (Aust) Pty Ltd,Private
+02813B,Niche Education Group Pty Ltd,Private
+02815M,Menzies Institute of Technology Pty Ltd,Private
+02819G,Modern Communications Australia Pty Ltd,Private
+02826G,Sragill Pty Ltd,Private
+02835G,Sunshine College of Management Pty Ltd,Private
+02836F,Lonsdale Institute Pty Ltd,Private
+02838D,Kontea Pty Ltd,Private
+02847C,Bayside College Pty Ltd,Private
+02851G,Western Sydney University Enterprises Pty Limited,Private
+02855C,KAPS Institute of Management Pty Ltd as trustee for the KAPS Institute of Management Unit Trust,Private
+02856B,Nova International Education Pty Ltd,Private
+02858M,BJSB Pty Ltd,Private
+02863C,WHITEHOUSE INSTITUTE PTY LTD,Private
+02864B,International College of Advanced Education Pty Ltd,Private
+02868J,Australian Institute of Technical Training Pty Ltd,Private
+02869G,Evolution Systems for Training & Development Pty Ltd,Private
+02870D,Crown Institute of Business and Technology Pty Ltd,Private
+02871C,Sydney International Academy Pty Ltd,Private
+02880B,The Quality Training and Hospitality College Pty Ltd,Private
+02885G,Australian Language Schools Pty Ltd,Private
+02886G,Melbourne College of Hairdressing Beauty Therapy & Natural Medicine Pty Ltd,Private
+02892J,ITHEA Corporation Pty Ltd,Private
+02893G,Yorke Institute Pty Ltd,Private
+02894G,Inforum Australia Pty Ltd,Private
+02898C,Everthought College of Construction Pty Ltd.,Private
+02899B,Kingston Training and Employment Pty Ltd,Private
+02908F,Zarah Institute of Education Pty Ltd,Private
+02910A,Apple Study Group Pty Ltd,Private
+02914G,ICHM Pty Ltd,Private
+02915G,Durban International College Pty Ltd,Private
+02919C,Federation Technology Institute Pty Ltd,Private
+02924F,AUSTRALIAN ACADEMY OF HIGHER LEARNING PTY LTD,Private
+02925E,Education Training & Employment Australia Pty. Ltd.,Private
+02926D,Pass Global Pty Ltd,Private
+02931G,Hawthorn Learning Pty Ltd,Private
+02933E,Australasian Lawrence Aged Care College Pty Ltd,Private
+02934D,Southern Cross Education Institute Pty Ltd,Private
+02938M,Canterbury Technical Institute Pty Ltd,Private
+02939K,College of Complementary Medicine NSW Pty Ltd,Private
+02943C,Covenant College Tuggeranong ACT Association Incorporated,Private
+02945A,NEGS LIMITED,Private
+02946M,Universal Institute of Technology Pty Ltd,Private
+02948J,Sydney College of Divinity Ltd,Private
+02954M,Coolum Beach Christian College Ltd,Private
+02961A,Iascend Polytechnic Pty Ltd,Private
+02966G,Global Education Ministry Incorporated,Private
+02970M,Angad Australian Institute of Technology Pty Ltd,Private
+02974G,Pacific Flight Services Pty Ltd,Private
+02975F,Astute Training Pty Ltd,Private
+02978C,Australian College of Commerce & Information Technology Pty Ltd,Private
+02983F,J & J Aviation Pty Ltd,Private
+02992E,Queens Group Pty Ltd,Private
+02995B,Impact English College Pty Ltd,Private
+02996A,Star Gazers Education Pty Ltd,Private
+02999J,KFQ Partners Pty Ltd,Private
+03000J,Colleges Australia International Pty Ltd,Private
+03002G,GREENHILL EDUCATION GROUP PTY LTD,Private
+03005D,Ace Sports Pty Ltd,Private
+03009M,Australian National College Pty Ltd,Private
+03010G,Malekhu Investments Pty Ltd,Private
+03013D,Australian Technical And Management College Pty Ltd,Private
+03015B,New Cambridge College Sydney Inc,Private
+03016A,School of Hairdressing Pty Ltd,Private
+03017M,Pearson Aviation Pty Ltd,Private
+03019J,Byron ELA Pty Ltd,Private
+03020E,TAFE Queensland,Government
+03021D,Crumps International Pty Ltd,Private
+03024A,"Melbourne City Institute of Education Pty Ltd, as trustee for MCIE Unit Trust",Private
+03029G,Australian Careers College Pty Ltd,Private
+03033M,St Ursula's College Toowoomba,Private
+03034K,Sheffield College of Technology Pty Ltd,Private
+03039E,Imperial Education Group Pty Ltd,Private
+03041M,TasTAFE,Government
+03042K,Universal Network of Infotech Pty Ltd,Private
+03047E,Stanley International College Pty Ltd,Private
+03048D,Asia Pacific International College Pty Ltd,Private
+03051J,Perth College Of Business and Technology Pty Ltd,Private
+03052G,Golf Education Australia Pty Ltd,Private
+03053G,Australian Ideal College Pty Ltd,Private
+03057C,International College of Capoeira Pty Ltd,Private
+03069K,Australian Professional Education Institute Pty Ltd,Private
+03071E,Australian Learning Group Pty Ltd,Private
+03076M,Bandicoot Group Pty Ltd,Private
+03082B,Australian College of Trade Pty Ltd,Private
+03090B,Acumen Education Pty Ltd,Private
+03091A,AEC Consulting Pty Ltd,Private
+03093K,Spencer College Pty Ltd,Private
+03094J,Envirotech Education Pty Ltd,Private
+03105M,King's Institute of Management and Technology Pty Ltd,Private
+03113M,New England Institute of Technology Pty Ltd,Private
+03122K,St George & Sutherland Community College Incorporated,Private
+03126F,Australian Adelaide International College Pty Ltd,Private
+03127E,Kaplan Higher Education Pty Ltd,Private
+03133G,Adelaide Institute of Business and Technology Pty Ltd,Private
+03134F,Australian National College of English Pty. Ltd.,Private
+03136D,Barkly International College Pty. Ltd.,Private
+03142F,Ashton College Pty. Ltd.,Private
+03147A,Australian Institute of Higher Education Pty Ltd,Private
+03149K,International Institute of Management Pty Ltd,Private
+03152D,Pax Institute of Education Pty Ltd,Private
+03155A,The College of Law Limited,Private
+03156M,Apex Institute of Education Pty Ltd,Private
+03157K,LaTrobe International Galleries Pty. Ltd.,Private
+03159G,Media Makeup Academy and Agency Pty Ltd,Private
+03164M,Australian College of Technology and Business Pty Ltd,Private
+03167G,Angel United Group Pty. Ltd.,Private
+03171A,Australian Institute of Business and Management Pty Ltd,Private
+03173K,ALIF Australia Pty Ltd,Private
+03177F,Global Education & Tourism Group Pty Ltd,Private
+03181K,Australian Airline Pilot Academy Pty Ltd,Private
+03182J,Beaconhills Christian College Ltd,Private
+03187D,Adelaide Educators Pty Ltd,Private
+03188C,West Australian Institute of Further Studies Pty Ltd,Private
+03189B,Jabin Hopkins Pty Ltd,Private
+03190J,JP International College Pty Limited,Private
+03197B,National Art School,Private
+03208D,Captain Cook Institute Pty Ltd,Private
+03210K,The Management Edge Pty Ltd,Private
+03211J,IAA Education Pty Ltd,Private
+03215E,Pacific Language School Pty Ltd,Private
+03217C,Central Australian Institute of Technology Pty Ltd,Private
+03219A,Australian Careers Education Pty. Ltd.,Private
+03220G,EIM International Training Pty Ltd,Private
+03221G,True Education Pty Ltd,Private
+03222F,Australian Health and Science Institute Pty Ltd,Private
+03223E,Shiv Sans Pty Ltd,Private
+03226B,BNB International Colleges Pty Ltd,Private
+03228M,Advance English Pty Ltd,Private
+03232D,Hibernia Institute Pty Ltd,Private
+03233C,Nan Tien Institute Limited,Private
+03234B,Pramukh Group of Companies Pty Ltd,Private
+03240D,Jasmine Education Group Pty Ltd,Private
+03241C,Caloundra City School Limited,Private
+03245K,Melbourne Institute of Technology Pty Ltd,Private
+03246J,Christian Community Ministries Ltd,Private
+03248G,IBN College Pty Ltd,Private
+03249F,Australian Skills Centre Pty Ltd,Private
+03250B,Aeropower Pty Ltd,Private
+03251A,Cairns College of English Pty Ltd,Private
+03255G,Australian Professional Skills Institute Pty Ltd,Private
+03256G,Nortwest Pty Ltd,Private
+03262J,Discover English Pty Ltd,Private
+03265F,Morling College Limited,Private
+03266E,Australian Institute of Management and Technology Pty Ltd,Private
+03267D,Edupro Australia Pty Ltd,Private
+03268C,Gold Coast Learning Centre Pty Ltd,Private
+03273F,Air Gold Coast Pty. Ltd.,Private
+03274E,Sunset Coast International English School Pty Ltd,Private
+03275D,Equanimity Consultants Pty Ltd,Private
+03279M,Wentworth Institute of Higher Education Pty Ltd,Private
+03282E,MVJ Enterprises Pty Ltd,Private
+03285B,The Greek Orthodox Parish & Community of Belmore & District All Saints Ltd,Private
+03287M,Charles Institute of Technology Australia Pty Ltd,Private
+03288K,Pymble Ladies' College,Private
+03290E,Stella Maris College,Private
+03296K,English Unlimited Brisbane Pty Ltd,Private
+03298G,Genazzano FCJ College Limited,Private
+03300G,St Augustine's College Sydney,Private
+03312D,Navitas Bundoora Pty Ltd,Private
+03317K,St Patrick's College Townsville Limited,Private
+03319G,Academies Australasia Hair & Beauty Pty Limited,Private
+03322B,Academique Pty Ltd,Private
+03326J,Rudolf Steiner Education Group Brisbane Inc,Private
+03328G,Skilled Services Australia Pty Ltd,Private
+03330B,Macquarie Grammar School Limited,Private
+03332M,Diocese of Lismore Catholic Schools Limited,Private
+03335G,SP Jain School of Global Management Pty Ltd,Private
+03336G,Sydney Catholic Schools Ltd as Trustee for the Sydney Catholic Schools Trust,Private
+03337F,St Scholastica's College,Private
+03338E,Rosebank College,Private
+03339D,Trustees of the Roman Catholic Church for the Diocese of Maitland-Newcastle,Private
+03341K,INUS Australia Pty Ltd,Private
+03345F,International Institute of Business and Technology (Australia) Pty Ltd (IIBT),Private
+03346E,Apeiron Asia Pty Ltd,Private
+03347D,The Corporation of the Trustees of the Roman Catholic Archdiocese of Brisbane,Private
+03349B,STEPS Sunshine Coast International College Pty Ltd,Private
+03350J,MnM Institute Pty Ltd,Private
+03351G,Malvern Institute Pty Ltd,Private
+03352G,"Department for Education, Children and Young People",Government
+03354E,AAPA VICTORIA PTY LTD,Private
+03361F,International Screen Academy Pty Ltd,Private
+03364C,Hamazkaine - Arshak & Sophie Galstaun College Limited,Private
+03366A,New York Film Academy Australia Pty Ltd,Private
+03367M,The Makeup Technicians Pty Ltd,Private
+03370E,Baris Education and Culture Foundation Limited,Private
+03373B,Job Training Institute Pty Ltd,Private
+03374A,Everest Institute of Education Pty Ltd,Private
+03375M,AUSTRALIAN COLLEGE OF CHRISTIAN STUDIES LTD,Private
+03376K,Australian NIT College Pty Ltd,Private
+03377J,Signet Institute of Australia,Private
+03378G,TOWNSVILLE INTERNATIONAL ENGLISH SCHOOL PTY. LTD.,Private
+03379G,AUSTRALASIAN INSTITUTE OF AYURVEDIC STUDIES PTY LTD,Private
+03383M,Sicop Education & Technology Pty Ltd,Private
+03384K,MTA Institute of Technology Pty Ltd,Private
+03386G,Health Careers International Pty Ltd,Private
+03389E,Torrens University Australia Limited,Private
+03390A,Elite Education Institute Pty Ltd,Private
+03391M,Sheridan College Inc,Private
+03392K,Australian College of the Arts Pty Ltd,Private
+03394G,Benleader Pty Ltd,Private
+03395G,Berkeley Business Institute Pty Ltd,Private
+03396F,CHC Services Pty Ltd,Private
+03397E,The Malka Group Pty Ltd,Private
+03398D,Pal Buddhist School Limited,Private
+03399C,National Training Centre of Australia Pty Ltd,Private
+03400D,Australian Academy of Nursing Pty Ltd,Private
+03401C,Max Therapy School Pty Ltd,Private
+03402B,Australian Association of Education and Research Pty Ltd,Private
+03404M,Amity College Australia Limited,Private
+03405K,Australian Computer Society Incorporated,Private
+03406J,Lawson College Australia Pty Ltd,Private
+03407G,Institute of Health & Management Pty Ltd,Private
+03409F,NSW Business College Pty Ltd,Private
+03411A,Iona Columba College Pty Ltd,Private
+03413K,GLOBAL TRAINING INNOVATIONS PTY. LTD.,Private
+03415G,TTY Collective Pty Ltd,Private
+03416G,International College of Melbourne Pty Ltd,Private
+03417F,Charter Australia Pty Ltd,Private
+03418E,Purna Yoga Ltd,Private
+03420M,NATIONAL INSTITUTE OF TECHNOLOGY PTY. LTD.,Private
+03421K,International Education Specialist College Pty Ltd,Private
+03423G,The Greek Orthodox Community of Oakleigh and District Inc,Private
+03425F,Dynamic Education Group Pty Ltd,Private
+03426E,Australian College of Business Intelligence Pty Ltd,Private
+03427D,Sydney Metro College Pty Ltd,Private
+03429B,Ozford Institute of Higher Education Pty Ltd,Private
+03430J,Brighton Pacific Pty Ltd,Private
+03431G,New England School of English Pty. Ltd.,Private
+03432G,Entrepreneur Education Pty Ltd,Private
+03433F,Platinum Properties Melbourne Pty Limited,Private
+03435D,Gateway College of Technology Pty Ltd,Private
+03437B,Perth Technical College Pty Ltd,Private
+03438A,The Wales Institute Pty Ltd,Private
+03439M,Mercury Institute of Victoria Pty Ltd,Private
+03441F,Russo Business School Pty Ltd,Private
+03442E,Australian Hospitality Skills Recognition Pty Ltd,Private
+03443D,Global Business College Of Australia Pty Ltd,Private
+03444C,Choice Business College Pty Ltd,Private
+03445B,International Institute (Aust) Pty Ltd,Private
+03446A,ORANGE INTERNATIONAL COLLEGE PTY LTD,Private
+03447M,Bankstown Community College Inc.,Private
+03449J,Australian Harvard International College Pty Ltd,Private
+03450E,Global Education Consultant Pty Ltd,Private
+03452C,Axial Training Pty Ltd,Private
+03453B,Masters In Training Pty Ltd,Private
+03456K,Australian International College Pty Ltd,Private
+03457J,Times Academy Pty Ltd,Private
+03459G,Lexis Asia Pty Ltd,Private
+03461B,Australia Christian College Pty Ltd,Private
+03462A,Amber International Aviation Academy Pty Ltd,Private
+03464K,Compass Rose International College Pty Ltd,Private
+03465J,The Canberra Training School Pty. Ltd.,Private
+03466G,Queensland College of Music Pty Ltd,Private
+03467G,Insight Academy Pty Ltd,Private
+03468F,Macallan College Pty Ltd,Private
+03469E,Australian Institute of Advanced Studies Pty Ltd,Private
+03472K,Education Hub Pty Ltd,Private
+03473J,Aventia Institute Pty Ltd,Private
+03474G,HCR Constructions Pty Ltd,Private
+03475G,Site Institute Pty Ltd,Private
+03477E,Vanshraj Enterprises Pty Ltd,Private
+03478D,Astar Training Institute Pty Ltd,Private
+03479C,Australian Institute of English Pty Ltd,Private
+03480K,Australasian International Academy Pty Ltd,Private
+03481J,Sydney Training Institute Incorporated,Private
+03482G,Thinkgate Learning Pty Ltd,Private
+03483G,RTO Connect Pty Ltd,Private
+03486D,AUSTRALIAN ACADEMY OF TRADES PTY LTD,Private
+03487C,Vocational Training Institute Pty Ltd,Private
+03489A,M.S Aviation Pty Ltd,Private
+03490G,Llewellyn Projects Pty Ltd,Private
+03491G,Milcom Communications Pty Limited,Private
+03493E,Australian Skills Group Pty Ltd,Private
+03496B,Milestone English Academy Pty Ltd,Private
+03497A,Scots English College Pty Ltd,Private
+03499K,Training Australia First Pty Ltd,Private
+03500M,Adore Education Pty Ltd,Private
+03502J,NEW YORK COLLEGE PTY. LTD.,Private
+03503G,Leaders Institute of Training and Education Pty Ltd,Private
+03504G,Sydney International Institute Pty Ltd,Private
+03505F,GRIFFIN COLLEGE OF MANAGEMENT & TECHNOLOGY PTY. LTD.,Private
+03506E,Barton International College Pty Ltd,Private
+03507D,Australian Global College Pty Ltd,Private
+03509B,NEW ERA INSTITUTE PTY LTD,Private
+03510J,Training Masters Pty Ltd,Private
+03511G,Ultimate Education Group Pty Ltd,Private
+03512G,The Centre of Excellence Pty Ltd,Private
+03513F,Real Group Pty Ltd,Private
+03515D,Kool Kids Training College Pty Ltd atf Kool Kids Training College Trust,Private
+03517B,BRISBANE PROFESSIONAL COLLEGE PTY LTD,Private
+03518A,Natwide Personnel Pty Ltd,Private
+03519M,Linx Institute College Pty Ltd,Private
+03520G,Frontier Leadership Pty Ltd,Private
+03521F,Transformations - Pathways to Competence and Developing Excellence Pty Ltd,Private
+03522E,Perth Translation and Interpreting Training Pty Ltd,Private
+03523D,Student Development and Learning (SDL) Academy Pty Ltd,Private
+03524C,Astley College Australia Pty Ltd,Private
+03526A,International Institute Brisbane Pty Ltd,Private
+03529J,Mechanical Institute of Training and Technology Pty Ltd,Private
+03530E,The Cairnmillar Institute,Private
+03534A,Momentum Consulting (Qld) Pty Ltd,Private
+03535M,Polytechnic Institute Australia Pty Ltd,Private
+03537J,Australian Capital Group Pty Ltd,Private
+03538G,Australian International Training College Pty Ltd,Private
+03540C,Clinton Education Pty Ltd,Private
+03541B,ECHO Education Technology Pty Ltd,Private
+03542A,QIHE PTY LTD,Private
+03543M,H.C.H INVESTMENTS PTY. LTD.,Private
+03544K,Australian Vocational Training Institute Pty Ltd,Private
+03545J,Academy of Entrepreneurs Pty Ltd,Private
+03546G,Elite Education Group PTY. LTD.,Private
+03547G,The Anglican Schools Commission Incorporated,Private
+03548F,Excellent Accounts Pty Ltd,Private
+03549E,York Business Institute Pty. Ltd.,Private
+03550A,Golf Training Australia Pty. Ltd.,Private
+03551M,Golden Wattle Group Pty Ltd,Private
+03552K,BARRINGTON TRAINING SERVICES QUEENSLAND PTY LTD,Private
+03553J,ANIT Australia Pty Ltd,Private
+03554G,Sydney Art School Pty Ltd,Private
+03555G,Swann International Pty Ltd,Private
+03556F,Crown Education Pty Ltd,Private
+03558D,Anglican Schools Corporation,Private
+03559C,Angel Education Group Pty Ltd ATF Angel Education Group Unit Trust,Private
+03560K,Windsor College Pty Ltd,Private
+03562G,CACHET TRAINING PTY LIMITED,Private
+03564F,GLOBAL COLLEGE AUSTRALASIA PTY. LTD.,Private
+03565E,INSTITUTE OF GLOBAL EDUCATION AND TRAINING PTY. LTD.,Private
+03566D,Lennox Institute Pty Ltd,Private
+03567C,Engineering Institute of Technology Pty Ltd,Private
+03568B,GOLD COAST INTERNATIONAL COLLEGE PTY. LTD.,Private
+03569A,Australis College Pty Ltd,Private
+03571G,IBMA Education Pty Ltd,Private
+03572F,Gen Institute Pty Ltd,Private
+03573E,Australian Education Advisor Pty Ltd,Private
+03574D,Beauty Therapy Training Australia Pty Ltd,Private
+03575C,Care Plus Training Pty Ltd,Private
+03576B,Learning Lab Pty Ltd,Private
+03578M,Lyons Education Group Pty Ltd,Private
+03579K,Unity School Pty Ltd,Private
+03580F,Gamma Education & Training Pty Ltd,Private
+03581E,Proteus Technologies Pty Ltd,Private
+03584B,Pollard English Language Centre Pty Ltd,Private
+03585A,VELOCITY EDUCATION & TRAINING PTY. LTD.,Private
+03586M,Mindroom Innovation PTY LTD,Private
+03587K,Enhance College Pty Ltd,Private
+03588J,SKILLSET TRAINING PTY. LTD.,Private
+03589G,Mayfair College Pty Ltd,Private
+03590D,AUSTRALIA ACADEMY INTERNATIONAL PTY LTD,Private
+03591C,SUPERIOR TRAINING CENTRE PTY LTD,Private
+03592B,Melbourne City College Pty Ltd,Private
+03593A,Airlines of Tasmania Pty Ltd,Private
+03594M,IIPM Pty Ltd,Private
+03595K,AUSTRALIAN HEALTH AND MANAGEMENT INSTITUTE PTY LTD,Private
+03596J,ST ALBANS INSTITUTE PTY LTD,Private
+03597G,LANEWAY EDUCATION PTY LTD,Private
+03598G,NEWTON COLLEGE PTY. LTD.,Private
+03600G,Study Play Care Pty Ltd,Private
+03601F,Wall Street College Pty Ltd,Private
+03602E,Australian Training School Pty Ltd,Private
+03603D,Collins Institute of Australia Pty Ltd,Private
+03604C,Bryan Peach Institute Pty Ltd,Private
+03605B,Australian Frontline Training College Pty Ltd,Private
+03606A,Angel Investments Group Pty Ltd,Private
+03608K,ZHOUAND INSTITUTE PTY. LTD.,Private
+03609J,TRAINING ORGANISATION NSW PTY LTD,Private
+03610E,Australia Institute of Business & Technology - International Pty Ltd,Private
+03611D,Zoi Education Pty Ltd,Private
+03613B,Southern English College Pty Ltd,Private
+03614A,RANSFORD COLLEGE PTY LTD,Private
+03617J,Level Up Education & Training Academy Pty Ltd,Private
+03618G,Pan Bird Pty Ltd,Private
+03620C,Sydney City College of Management Pty Ltd,Private
+03621B,AUSTRALIA LIBERTY COLLEGE PTY LTD,Private
+03622A,AISL PTY LTD,Private
+03623M,Strategix Training Group Pty Ltd,Private
+03627G,MID CITY EDUCATION PTY LTD,Private
+03628F,Pacific English College Pty Ltd,Private
+03629E,Australian Careers Business College Pty Ltd,Private
+03630A,Australian English Colleges Pty. Ltd.,Private
+03631M,APLUS EDUCATION GROUP Pty. Ltd.,Private
+03632K,Five Diamonds Group Pty Ltd,Private
+03633J,ALPHA INTERNATIONAL COLLEGE AUSTRALIA PTY. LTD.,Private
+03634G,JOAN LAWMAN SCHOOL OF BEAUTY PTY LTD,Private
+03635G,Brighton College Pty Ltd,Private
+03636F,Lead College Pty Ltd,Private
+03638D,INT Nurse Training Pty Ltd,Private
+03639C,MG Australia Group Pty Ltd,Private
+03640K,Manigram Pty Ltd,Private
+03642G,DOLPH LEARNING PTY LTD,Private
+03643G,Melbourne Institute of Nails & Beauty Pty Ltd,Private
+03644F,Key 2 Learning Pty Ltd,Private
+03645E,Collins Academy Pty Ltd,Private
+03646D,Australian Design College Pty Ltd,Private
+03647C,Blue Bay College Pty Ltd,Private
+03648B,KNIT GROUP AUSTRALIA PTY LTD,Private
+03649A,Victorian Education and Training Group Pty Ltd,Private
+03650G,Spencer Technical College Pty Ltd,Private
+03651G,Akram Kahla Pty Ltd,Private
+03652F,Choice Academic College Pty Ltd,Private
+03653E,NARTEL ENTERPRISES PTY LTD,Private
+03655C,Advocate Training Pty Ltd,Private
+03656B,FLY OZ PTY LTD,Private
+03657A,F & Z EDUCATION PTY LTD,Private
+03658M,FSAC Ltd,Private
+03659K,Austrasia College Pty Ltd,Private
+03661E,AUSTRALIAN SMART COLLEGE PTY LTD,Private
+03662D,"Australian Film, Television and Radio School",Private
+03663C,Western Sydney University International College Pty Ltd,Private
+03664B,Tham Training Pty Ltd,Private
+03665A,Australian Professional Education Group Pty Ltd,Private
+03666M,Skilled Up Pty Ltd,Private
+03667K,Rightway Training and Development Pty Ltd,Private
+03668J,Original Campus Pty Ltd,Private
+03669G,Educare Training Institute of Australasia Pty Ltd,Private
+03670D,Harbourside Institute of Australia Pty Ltd,Private
+03671C,Medical Training and Development Pty Ltd,Private
+03672B,Australian Techno Management College Pty Ltd,Private
+03673A,MELBOURNE EDUCATION INSTITUTE PTY. LTD.,Private
+03674M,Centennial College Pty Ltd,Private
+03675K,Alana Kaye Group Pty Ltd,Private
+03676J,Australian College of Technical Training Pty Ltd,Private
+03677G,Sea English Academy International Pty Ltd,Private
+03678G,Higher Learning Australia Pty Ltd A/T for The Trustee for Higher Learning Unit Trust,Private
+03679F,Sydney English House Pty Ltd,Private
+03680B,Ashley English Language Institute Pty Ltd,Private
+03681A,UK English College Pty Ltd,Private
+03682M,Skills International Pty Ltd,Private
+03683K,International College of Tasmania Pty Ltd,Private
+03684J,Melbourne City Institute Pty Ltd,Private
+03685G,Australian Institute of Engineering Pty Ltd,Private
+03686G,Steven Millard and Associates Pty Ltd atf Millard Family Trust,Private
+03687F,Australian College of Community and Health Services Pty Ltd,Private
+03688E,Care Academy VIC Pty Ltd,Private
+03689D,Downtown Australia Pty Ltd,Private
+03690M,International College of Australia Pty Ltd,Private
+03691K,Australian Tertiary Institute Pty Ltd,Private
+03692J,Queen Anne English College  Australia Pty Ltd,Private
+03693G,Villanova College,Private
+03694G,Australian International Training Academy Pty Ltd,Private
+03695F,Sanbourne Academy Pty Ltd,Private
+03697D,Austec Institute Pty Ltd,Private
+03698C,Kalamatta Pty. Ltd,Private
+03700C,Mint Training Pty Ltd,Private
+03702A,Australian International Studies Institute Pty Ltd,Private
+03703M,Apeiro Institute Pty Ltd,Private
+03704K,St Paul's College Limited,Private
+03705J,The Institute of International Studies (TIIS) Pty Ltd,Private
+03706G,Insight Academy of Australia Pty Ltd,Private
+03708F,Wakefield International Business School Pty Ltd,Private
+03709E,Wiseman & Co. Advanced Learning Institute Pty Ltd,Private
+03711M,Intellect English Pty Ltd,Private
+03712K,Accredited Education & Training Australia Pty Ltd,Private
+03713J,Outsource Institute of Technology Pty Ltd,Private
+03714G,AUSTRALIAN INSTITUTE OF BUSINESS AND TECHNOLOGY PTY. LTD.,Private
+03715G,Australian Islamic College of Sydney,Private
+03716F,Lutheran Church of Australia Queensland District,Private
+03717E,Richmond School of Business Pty Ltd,Private
+03718D,SMEAG AUSTRALIA PTY LTD,Private
+03719C,St Stephen's School,Private
+03720K,Jazz Music Institute Pty Ltd,Private
+03721J,Ti Education and Training Pty Ltd,Private
+03722G,Smart Connection Company Pty Ltd,Private
+03723G,Ruby Institute Pty LTD,Private
+03724F,Mondairs PTY LTD,Private
+03725E,AOI GROUP PTY LTD,Private
+03726D,Presbyterian Church of Queensland,Private
+03727C,The Lions Institute Pty Ltd,Private
+03729A,Mandarin Institute of Victoria Pty Ltd,Private
+03730G,Berkeley Education Pty Ltd,Private
+03732F,Leaders Institute Pty Ltd,Private
+03733E,YourLife Health and Learning Inc,Private
+03734D,Australian Academy of Business and Technology Pty Ltd,Private
+03736B,Sydney Centre for Finance Studies Pty Ltd,Private
+03737A,Melbourne Centre for Technology Studies Pty Ltd,Private
+03739K,Southern Cross Education Institute (Higher Education) Pty Ltd,Private
+03740F,Simple Training Academy Pty Ltd,Private
+03741E,Tred Consultants Pty Ltd,Private
+03742D,AUSTRALIAN INSTITUTE OF BUSINESS AND TRADE PTY. LTD.,Private
+03743C,NATIONAL AUSTRALIAN INSTITUTE OF TECHNOLOGY PTY LTD,Private
+03744B,Crown Institute of Higher Education Pty Ltd,Private
+03745A,Edmund Rice Education Australia Colleges Ltd,Private
+03747K,Australian National Academy of Education Pty Ltd,Private
+03750D,Universal English Pty Ltd,Private
+03751C,Australian International Education Centre Pty Ltd,Private
+03752B,Stanford College Australia Pty Ltd,Private
+03753A,Aspen Education Group Pty Ltd,Private
+03754M,Australian International Institute of Technology Pty Ltd ATF AIIT Unit Trust,Private
+03755K,Q Academy Pty Ltd,Private
+03756J,Australian Capital Training Institute Pty Ltd,Private
+03757G,Leeds College Pty Ltd,Private
+03758G,The Language Academy Pty Ltd,Private
+03759F,Design Schools Australia Pty Ltd,Private
+03760B,House of Learning Pty Ltd,Private
+03761A,Australian College of Nursing Ltd,Private
+03762M,Veritas Education Pty Ltd,Private
+03763K,Adelaide Institute of Higher Education Pty Ltd,Private
+03764J,Lambda Education Pty Ltd,Private
+03765G,NSW Institute of Education and Training Pty Ltd,Private
+03766G,Wakefield International College Pty Ltd,Private
+03767F,Orange Education Group Pty Ltd,Private
+03768E,Australian College of Digital Technologies Pty Ltd,Private
+03769D,Australian Institute of Management Education and Training Pty Limited,Private
+03770M,TKL College Pty Ltd,Private
+03771K,Moreton Bay College,Private
+03772J,Moreton Bay Boys' College Limited,Private
+03773G,Vocation Education Training Australia Pty Ltd,Private
+03774G,Davies Institute Pty Ltd,Private
+03775F,Australian Institute of Electro Technology Pty Ltd,Private
+03776E,Eastlink Consulting Pty Ltd,Private
+03777D,CAN UNITED Pty Ltd,Private
+03778C,Victorian Institute of Education Pty ltd,Private
+03779B,United Colleges of Australia Pty Ltd as the trustee for UCA Unit Trust,Private
+03781G,Australian College of International Studies Pty Ltd,Private
+03782G,A.M.A. Services (W.A.) Pty Ltd,Private
+03783F,Active Transition Training Pty Ltd,Private
+03784E,Australian Global Institute Pty Ltd,Private
+03785D,Learning Victoria Pty Ltd,Private
+03787B,TVSA Pilot Training Pty Ltd,Private
+03788A,Orana Fashion Business College Pty Ltd,Private
+03789M,Aircrew Training and Support Pty Ltd,Private
+03790G,Blue Lotus Academy Pty Ltd,Private
+03791F,Health Institute Australasia Pty Ltd,Private
+03792E,Sydney Metropolitan International College Pty Ltd,Private
+03793D,The Institute of Culinary Excellence Pty Ltd,Private
+03794C,NVR Education Pty Ltd,Private
+03795B,MYOZ College Pty Ltd,Private
+03796A,Hilton Academy Pty Ltd,Private
+03797M,Stirling Institute of Australia Pty Ltd,Private
+03798K,AUIT Group Pty Ltd as trustee for The Holistic Trust,Private
+03799J,Charleston English Pty Ltd,Private
+03800K,Australian College of Management and Innovation Pty Ltd,Private
+03801J,The Anglican Schools Commission Incorporated,Private
+03802G,Major Blue Air Pty Ltd,Private
+03803G,Lindisfarne Anglican School,Private
+03804F,Fit Education Pty Ltd,Private
+03805E,International Education Group of Australia Pty Ltd,Private
+03806D,IQRA Vocational Education and Training Pty Ltd,Private
+03807C,Innovative Institute of Australia Pty Ltd,Private
+03808B,Stellar College Pty Ltd,Private
+03809A,Australian Campus Management Pty Ltd,Private
+03810G,CAREER READY PTY LTD,Private
+03811G,Australian Future Wellbeing Education Pty Ltd,Private
+03813E,Impavid Education Pty Ltd,Private
+03814D,HOWAYEK BLESSINGS LTD,Private
+03815C,Techie International College Pty Ltd,Private
+03816B,Rahban Services Pty Ltd,Private
+03817A,Edinburgh International College Pty Ltd,Private
+03818M,Education Investors Pty Ltd,Private
+03819K,Origin Education Group Pty Ltd,Private
+03820F,Future Path International Pty Ltd,Private
+03822D,Charlton Brown Pty Ltd,Private
+03823C,Australian College for Excellence Pty Ltd,Private
+03824B,Infinite Learning Institute Pty Ltd,Private
+03826M,Australian Business Management Pty Ltd,Private
+03827K,Career Development and Training Pty Ltd,Private
+03828J,The Business School Pty Ltd,Private
+03829G,East Coast College Pty Ltd,Private
+03830D,Batool International Pty Ltd,Private
+03831C,ILEARN OZ PTY LTD,Private
+03832B,Aus Crest Pty Ltd,Private
+03833A,FRANKLIN INTERNATIONAL COLLEGE PTY LTD,Private
+03834M,Australian College of Professional Careers Pty Ltd,Private
+03835K,Radix Education Pty Ltd,Private
+03836J,Australia Advance Education Group Pty Ltd,Private
+03837G,Platform 1 Group Pty Ltd,Private
+03838G,FIRST CHOICE EDUCATION PTY. LTD.,Private
+03839F,Emma Wicks as The Trustee for Paradise Falls Trust,Private
+03840B,Trump College Pty Ltd as Trustee for Trump College Unit Trust,Private
+03841A,INTERNATIONAL FITNESS INSTITUTE PTY LTD,Private
+03842M,Future Education Group Pty. Ltd.,Private
+03843K,Future Language School Pty Ltd,Private
+03844J,Australian Institute of Business Intelligence Pty Ltd,Private
+03845H,Higher Education Leadership Institute,Private
+03846G,Sydney Metropolitan Group Pty Ltd,Private
+03847F,Australian School of Accounting Pty Ltd,Private
+03848E,Universal Higher Education Pty Ltd,Private
+03849D,Inspired Australia Holdings PTY LTD,Private
+03850M,Global Institute of Training and Education Pty Ltd,Private
+03851K,Altocap Pty Ltd,Private
+03852J,Morrison College Pty Ltd,Private
+03853H,Eastern College Australia Incorporated,Private
+03854G,LEARNVAULT PTY LTD,Private
+03856E,Lamart Education Pty Ltd,Private
+03857D,Clayton Education Group Pty LTD,Private
+03858C,THE EARLY CHILDHOOD LEARNING COMPANY PTY. LTD.,Private
+03859B,Australian National Education Pty Ltd,Private
+03860J,Hills International College Ltd,Private
+03861H,"EBEJER, THOMAS JOSEPH",Private
+03862G,AFG SECURITY AND PROTECTIVE SERVICES PTY LTD,Private
+03863F,Reeves College Pty Ltd,Private
+03865D,ECA Graduate Institute Pty Ltd,Private
+03866C,Sydney Institute of Higher Education Pty Ltd,Private
+03867B,Chambers School of Business Pty Ltd,Private
+03868A,Mount Alvernia College Limited,Private
+03869M,EMBRACIA EDUCATION & DEVELOPMENT PTY LTD,Private
+03870G,Australian Scholar's College Pty Ltd,Private
+03871F,Phoenix College of Australia Pty Ltd,Private
+03872E,Pivotal Training & Development Pty Ltd,Private
+03873D,Oxford Creative Academy Pty Ltd,Private
+03874C,West Melbourne Institute of Technology Pty Ltd,Private
+03875B,Global Institute Australia Pty Ltd,Private
+03876A,Focus Academy of Learning Pty Ltd,Private
+03877M,TRIDENT EDUCATION AUSTRALIA PTY LTD,Private
+03878K,Opulence College Pty Ltd,Private
+03879J,Edvantage Institute Australia Pty Ltd,Private
+03880E,Bhairav Baba Pty Ltd,Private
+03881D,ABOARD TRAINING AUSTRALIA PTY LTD,Private
+03882C,ROCKFORD INTERNATIONAL COLLEGE PTY LTD,Private
+03883B,Langports (Gold Coast) Pty Ltd,Private
+03884A,Skills Training College Pty Ltd,Private
+03886K,AUSTRALIAN NATIONAL EDUCATION HOLDING Pty Ltd,Private
+03887J,Career Solutions Group Pty Ltd The Trustee for Career Solutions Trust,Private
+03888H,Australian City International College Pty Ltd,Private
+03889G,Guided Pathways Pty Ltd,Private
+03890C,Melbourne Training College Pty Ltd,Private
+03891B,Tower Australian College Pty Ltd,Private
+03892A,McEvoy & Doust Pty Ltd,Private
+03893M,City Language Institute Pty Ltd,Private
+03894K,Texila College Australia Pty Ltd,Private
+03895J,Clinton English Pty Ltd,Private
+03896H,Horizon Training Institute Pty Ltd,Private
+03897G,Performing Arts Education Pty Ltd,Private
+03898F,AEC Simply Studies Pty Ltd,Private
+03899E,St. Marys Institute Pty Ltd,Private
+03900F,OPERA EDUCATION GROUP PTY LTD,Private
+03901E,Integrated Training Pty Ltd,Private
+03902D,L.P. Communications Pty Ltd as trustee for LP communications Trust,Private
+03903C,Australian International Aviation College PTY LTD,Private
+03904B,Reach Community College Pty Ltd,Private
+03905A,Prime Education Group Pty Ltd,Private
+03906M,Sydney Metropolitan Institute of Technology Pty Ltd,Private
+03907K,AUSTRALIAN SOVEREIGN COLLEGE PTY LTD,Private
+03908J,Eton College Pty Ltd,Private
+03909H,CJAE Pty Ltd,Private
+03910D,Corporate Business Academy Pty Ltd,Private
+03911C,CAMDEN COLLEGE PTY LTD,Private
+03912B,Trade Institute of Victoria Pty Ltd,Private
+03913A,Learn to Fly Australia Pty Ltd,Private
+03914M,Bentley College Pty Ltd,Private
+03916J,Kingsway College Pty Ltd,Private
+03917H,Shafston International Pty Ltd,Private
+03918G,Holborne Institute Pty Ltd,Private
+03919F,Spark SA Investments Pty Ltd,Private
+03920B,Fox Endeavours Pty Ltd,Private
+03921A,BFJ International Studies Pty Ltd,Private
+03922M,Victorian Institute of Applied Learning Pty Ltd,Private
+03923K,English Direct Australia Pty Ltd,Private
+03924J,AWS Institute Pty Ltd,Private
+03925H,Australasian College of Advanced Education Pty Ltd,Private
+03926G,FIT College Pty Ltd,Private
+03927F,Highgate International College Pty Ltd,Private
+03928E,Goldthorn International Pty Ltd,Private
+03929D,Top End Group Training Pty Ltd,Private
+03931K,Loreto Normanhurst Limited,Private
+03932J,ECA Higher Education Institute Pty Ltd,Private
+03933H,Contempo Education Pty Ltd,Private
+03934G,Australian Institute of Professionals (AIP) Pty Ltd,Private
+03935F,Helix College Pty Ltd,Private
+03936E,J Chazzer & B Singh & H Singh,Private
+03937D,Luminous Education Pty Ltd,Private
+03938C,Signature Training Pty Ltd,Private
+03939B,Massey College Pty Ltd,Private
+03940J,Academia of Trade Pty Ltd,Private
+03941H,PAKENHAM INSTITUTE PTY LTD,Private
+03942G,Triple Five Group Pty. Ltd.,Private
+03943F,Australian Chiropractic College Limited,Private
+03944E,INTERNATIONAL INSTITUTE OF SYDNEY PTY LTD,Private
+03945D,The Bright College Pty Ltd,Private
+03946C,Penfold College Pty Ltd,Private
+03947B,SET QLD Pty Ltd as trustee for SET QLD UNIT TRUST,Private
+03948A,JMD Business Institute Pty Ltd,Private
+03949M,Riverdale Institute Pty Ltd,Private
+03950G,Australian Business Skills College Pty Ltd,Private
+03951F,Sunbeam International College Pty Ltd,Private
+03952E,EQUINIM COLLEGE PTY LTD,Private
+03953D,Nithi College Pty Ltd,Private
+03954C,Australian Health and Horticulture Institute Pty Ltd,Private
+03955B,Wisdom International College Pty Ltd,Private
+03956A,Pioneer College Pty Ltd,Private
+03957M,Starford College Pty Ltd,Private
+03958K,Aim Institute Pty Ltd,Private
+03959J,GIPPSLAND TRADE INSTITUTE PTY LTD,Private
+03960E,AA Training Pty Ltd,Private
+03961D,J&L Consultancy Pty Ltd,Private
+03962C,Prospect Education Group Pty Ltd,Private
+03963B,Workforce Education Institute Pty. Ltd.,Private
+03964A,Culinary Institute Australia Pty Ltd,Private
+03965M,Malwa College of Australia Pty Ltd,Private
+03966K,NOVUS EDUCATION PTY LTD,Private
+03967J,Apex Institute of Higher Education Pty Ltd,Private
+03969G,Polytechnic Victoria Pty Ltd,Private
+03970C,ADELAIDE EDUCATION AND TRAINING PTY LTD,Private
+03971B,Australian Guess International College Pty Ltd,Private
+03972A,Australian Prime Education and Training Pty Ltd,Private
+03973M,Hospitality Institute of NSW Pty Ltd,Private
+03974K,Epoch International Group Pty Ltd,Private
+03975J,Alpha Beta College Australia PTY LTD,Private
+03976H,Easy Buy Products Pty Ltd,Private
+03977G,Chase Aus Pty Ltd,Private
+03978F,Bush Tukka Pty Ltd,Private
+03979E,Datum College Pty Ltd,Private
+03980A,FEDERATION ACADEMY AUSTRALIA PTY LTD,Private
+03981M,ALIT EDUCATION GROUP PTY. LTD.,Private
+03982K,WINSLOW PROFESSIONAL EDUCATION PTY LTD,Private
+03983J,AUSTRALIAN INSTITUTE OF DIGITAL TECHNOLOGY PTY LTD,Private
+03984H,Palmir Educreation Pty Ltd,Private
+03985G,Australian International College of Skills & Education Pty Ltd,Private
+03986F,AIE Institute Limited,Private
+03987E,AUSTRALIAN VOCATIONAL TRAINING PTY LTD,Private
+03988D,Seir Pty Ltd,Private
+03989C,Valley International Pty Ltd,Private
+03990K,Workplace Health & Safety Services Pty Ltd,Private
+03991J,Atlantic College Pty Ltd,Private
+03992H,Le Pont International College Pty Ltd,Private
+03993G,Ferguson Project Management Services Pty Ltd,Private
+03994F,Sydney Institute of Top Education Pty Ltd,Private
+03995E,Raymond International College Pty Ltd,Private
+03996D,Australian Institute of Technology and Commerce Pty Ltd,Private
+03997C,ANZ College Pty Ltd,Private
+03999A,Woodstock International Pty Ltd,Private
+04000A,Pentagon College Pty Ltd,Private
+04001M,Brooklyn International College Pty Ltd,Private
+04002K,LEGEND INSTITUTE PTY LTD,Private
+04003J,Unison Education and Training Pty Ltd,Private
+04004H,Innovative College Pty Ltd,Private
+04005G,Willows Education Australia Pty Ltd,Private
+04006F,Award Academy Australia Pty Ltd,Private
+04007E,Australian Institute of Education and Technology Pty Ltd,Private
+04008D,Australian College of Vocational Education and Training Pty Ltd,Private
+04009C,National Academy of Professional Studies Pty Ltd,Private
+04010K,ELS FUTURES PTY LTD,Private
+04011J,United Institute Pty Ltd,Private
+04012H,Edunex Pty Ltd,Private
+04013G,Queensland Institute of Higher Education Pty Ltd,Private
+04014F,Enjoy English Pty Ltd,Private
+04015E,Ivory Education Group Pty Ltd,Private
+04016D,SAPIENCE COLLEGE PTY LTD,Private
+04017C,Future College Pty Ltd,Private
+04018B,Melbourne Institute of Higher Education Pty Ltd,Private
+04019A,ACCORD COLLEGE PTY LTD,Private
+04020H,AUSTRALIAN EDUCATION EXCELLENCE CENTRE PTY LTD,Private
+04021G,Alice Springs College of Australia Pty Ltd,Private
+04022F,HIGH SKILLED TRAINING AND EDUCATION AUSTRALIA PTY LTD,Private
+04023E,Australian Virtus Institute Pty Ltd,Private
+04024D,Harvard International College Pty Ltd,Private
+04025C,Brightpart Learning Centre Pty Ltd,Private
+04026B,BDMS Education Pty Ltd,Private
+04027A,Australian Educare College Pty Ltd,Private
+04028M,International Institute of Training Pty Ltd,Private
+04029K,Greenhill Institute Pty Ltd,Private
+04030F,AIPT GROUP PTY LTD,Private
+04031E,Graceland Institute Pty Ltd,Private
+04032D,Boston International Pty Ltd,Private
+04033C,Educate Australia Pty Ltd,Private
+04034B,Australian Vocational Training Academy Pty Ltd,Private
+04035A,Waratah Polytechnic Pty Ltd,Private
+04036M,Kingsford Education Group Pty Ltd,Private
+04037K,Wissen Holdings Pty Ltd,Private
+04038J,Australian College of Culinary and Management Pty Ltd,Private
+04039H,UQ College,Private
+04043A,Avir Institute of Skills Pty Ltd,Private
+04044M,Vigil International College Pty Ltd,Private
+04045K,Vocational Trainers Pty Ltd,Private
+04046J,Pace Business College Pty Ltd,Private
+04047H,Genesis Education Group Pty Ltd,Private
+04048G,Australian Institute of Business and Technical Education Pty Ltd,Private
+04049F,Perth Institute of Australia Pty Ltd,Private
+04050B,ABBI Educational Services Pty Ltd,Private
+04051A,The Ballarat Academy Pty Ltd,Private
+04052M,Institute of Management and Trade,Private
+04053K,AUSTRALIA INTERNATIONAL COLLEGE OF BUSINESS & TECHNOLOGY PTY LTD,Private
+04054J,THE ANIMAL ACADEMY,Private
+04055H,Auscare Staffing Agency Pty Ltd,Private
+04056G,MARS INSTITUTE PTY LTD,Private
+04057F,SECURITY COLLEGE OF AUSTRALIA Pty Ltd,Private
+04058E,Alma Mater College Australia Pty Ltd,Private
+04059D,Analytics Institute of Australia Pty Ltd,Private
+04060M,Enlighten Talent Pty Ltd,Private
+04061K,Britts College Pty Ltd,Private
+04062J,Auscanus Institute of Australia Pty Ltd,Private
+04063H,Ming-De International School Toowoomba Inc,Private
+04064G,UTA Institute of Technology Pty. Ltd.,Private
+04065F,AUSTRALIAN INSTITUTE OF HOSPITALITY & TRADE PTY LTD,Private
+04066E,Marasi Education Pty Ltd (VSC),Private
+04067D,WHITEHOUSE INTERNATIONAL COLLEGE PTY LTD,Private
+04068C,Boston Institute Pty Ltd,Private
+04069B,College of Nursing Education & Training Australia Pty Ltd,Private
+04070J,Southern Institute of Early Learning and Leadership Pty Ltd,Private
+04071H,D P TRAINING PTY LTD,Private
+04072G,Career Employment Group Inc,Private
+04073F,Daffodil International College Pty Ltd,Private
+04074E,Australian Professional Training Academy Pty Ltd,Private
+04075D,Achievers Global Pty Ltd,Private
+04076C,Avalon College Pty Ltd,Private
+04077B,EXCEED VENTURES PTY LTD,Private
+04078A,Southern Cross Institute (SCI),Private
+04079M,Thames International College Pty Ltd,Private
+04080G,DS College Pty Ltd,Private
+04081F,OAK LEAF EDUCATION,Private
+04082E,Mpika Holdings Pty Ltd,Private
+04083D,Sunway International College Pty Ltd,Private
+04084C,Concordia College - St Peters Campus Blackwood,Private
+04085B,Kings Institute of Vocational Studies Pty Ltd,Private
+04086A,Oban College Pty Ltd,Private
+04087M,ELITE COLLEGE OF ENGLISH,Private
+04088K,RSN Consultancy Pty Ltd,Private
+04089J,Global Healthcare Management College Pty Ltd,Private
+04090E,Sydney Polytechnic Institute,Private
+04091D,AUSTRALIAN SCHOOL OF BUSINESS & TRADE PTY LTD,Private
+04092C,International Institute of Technology and Management,Private
+04093B,College of Skills & Knowledge Pty Ltd,Private
+04094A,NSW Higher Education Pty Ltd,Private
+04095M,Australian Institute of Professional Counsellors,Private
+04096K,NATIONAL POLYTECHNIC OF AUSTRALIA PTY LTD,Private
+04097J,Lincoln Institute of Higher Education Ltd,Private
+04098H,Australian Engineering College Pty Ltd,Private
+04099G,Norton Institute Pty Ltd,Private
+04100H,A GRADE EDUCATION AND TRAINING PTY LIMITED,Private
+04101G,Dynamic Training Services Pty Ltd,Private
+04102F,Australian Data and Cyber Institute,Private
+04103E,Grenfell Education Enterprises Pty Ltd,Private
+04104D,The Health Arts College Pty Ltd,Private
+04105C,Far North Training & Consultancy Pty Ltd,Private
+04106B,States College Australia Pty Ltd,Private
+04107A,Atlas Education Pty Ltd,Private
+04108M,IIVS Pty Ltd,Private
+04109K,Sharma Education Pty Ltd,Private
+04110F,Australian Business Training Institute Pty Ltd,Private
+04111E,Universal Training Institute Pty Ltd,Private
+04112D,Sunbright Pty Ltd,Private
+04113C,Silverline College Pty Ltd,Private
+04114B,Indopacific Global Pty Ltd,Private
+04115A,Yarra Education Australia,Private
+04116M,PBL Education Pty Ltd,Private
+04117K,Ardor College Pty Ltd,Private
+04118J,Australian Training and Education College Pty Ltd,Private
+04119H,Australian Management College Pty Ltd,Private
+04120D,Kangaroo International College Pty Ltd,Private
+04121C,Core Training Pty Ltd,Private
+04122B,Danford Higher Education Pty Ltd,Private
+04123A,Austin Institute of Trades Pty Ltd,Private
+04124M,360 Training Academy Pty Ltd,Private
+04126J,Mulberry Institute Pty Ltd,Private
+04127H,SYDNEY BUSINESS INSTITUTE PTY LIMITED,Private
+04128G,Rural Medical Education Australia Limited,Private
+04129F,Brookside International College Pty Ltd,Private
+04130B,Wyatt Education Group Pty Ltd,Private
+04131A,New Age Professionals Pty Ltd,Private
+04132M,Spores Education and Training Pty Ltd,Private
+04133K,Hillshire Investment Pty Ltd,Private
+04134J,Marriott Education Group Pty Ltd,Private
+04135H,Sydney College of Professional Education,Private
+04136G,VIITE Pty Ltd,Private
+04137F,Australian Higher Education Academy Pty Ltd,Private
+04138E,Australia Institute of Healthcare Pty Ltd,Private
+04139D,Construction Training Australia Pty Ltd,Private
+04140M,INTERCARE INTERNATIONAL COLLEGE PTY LTD,Private
+04141K,Advance Australia International College Pty Ltd,Private
+04142J,Epicure Skills Training,Private
+04143H,Platinum Education Pty Ltd,Private
+04144G,Management Institute of Australia Pty Ltd,Private
+04145F,Acute Education Pty Ltd,Private
+04146E,PACIFIC COLLEGE SYDNEY PTY LTD,Private
+04147D,Allman College Pty. Ltd.,Private
+04148C,Princeton International Academy Pty Ltd,Private
+04149B,Infinity Business College Pty Ltd,Private
+04150J,Australia International Construction College Pty Ltd,Private
+04151H,QTN Pty Ltd,Private
+04152G,Insight Institute of Further Studies Pty Ltd,Private
+04153F,Ballarat Hospitality Pty Ltd,Private
+04155D,Phia Education Pty Ltd,Private
+04156C,Australis Vocational College Pty Ltd,Private
+04157B,TRADECRAFT ACADEMY PTY LTD,Private
+04158A,Lotus College Pty Ltd,Private
+04159M,United International College Pty Ltd,Private
+04161F,Management Institute Australia Pty Ltd,Private
+04162E,Hannan IT Pty Ltd,Private
+04163D,ACBT Education Pty Ltd,Private
+04164C,Native English Pty Ltd,Private
+04165B,Education IT Solutions Pty Ltd,Private
+04166A,Falcon Institute Pty Ltd,Private
+04167M,Southern Lights International Pty Ltd,Private
+04168K,Australian Guild of Education Pty Ltd,Private
+04172C,Cornzal Pty Ltd,Private
+04173B,Omni Futures Pty Ltd,Private
+04174A,Dynamite Management Australia Pty Ltd,Private
+04175M,Learner Centre Pty Ltd,Private
+04176K,Train2succeed Pty Ltd,Private
+04177J,Australian Industry Connect Security Academy Pty Ltd,Private
+04178H,B&P Education Pty Ltd,Private
+04179G,Rayan Education Group Pty Ltd,Private
+04180C,The Performance College Pty Ltd,Private
+04181B,Australasian Academy of Higher Education,Private
+04182A,XAVIER INTERNATIONAL COLLEGE PTY LTD,Private
+04183M,Le Rosey Hospitality Institute Pty Ltd,Private
+04184K,Unified WA Pty Ltd,Private
+04185J,Making Education Pty Ltd AFT Making Education Trust,Private
+04186H,Clarence Valley Anglican School Council Inc,Private
+04187G,Green Academy Pty Ltd,Private
+04188F,P & J WADE PTY. LIMITED,Private
+04189E,Fusion College of Technology Pty Ltd,Private
+04190A,Genesis Education and Training Pty Ltd,Private
+04191M,Australian Institute of Advanced Technologies,Private
+04192K,Bankstown Helicopters Pty Ltd,Private
+04193J,JH HOWLAND GROUP PTY LTD,Private
+04194H,Edinburgh Institute Pty Ltd,Private
+04195G,Australian Institute of Technical Studies Pty Ltd,Private
+04196F,We Train Townsville Pty Ltd,Private
+04197E,Viva Institute Pty Ltd,Private
+04198D,Esteem Educators Pty Ltd,Private
+04199C,Times College Pty Ltd,Private
+04200D,Built Training & Education Pty Ltd,Private
+04201C,Spectrum College Pty Ltd,Private
+04202B,Southern Academy of Higher Education Pty Ltd,Private
+04203A,TUT Training College Pty Ltd,Private
+04204M,AusBridge Institute of Technology Pty Ltd,Private
+04205K,BNT College Pty Ltd,Private
+04206J,IBM NSW Pty Ltd,Private
+04207H,Australian Institute of Hospitality and Management Pty Ltd,Private
+04208G,Asset Training Australia Pty Ltd,Private
+04210B,The College of Business Management Pty Ltd,Private
+04211A,SKILLS CLICK PTY LIMITED,Private
+04212M,ELPIS Education Pty Ltd,Private
+04213K,AUCTUS Consulting Pty Ltd,Private
+04214J,Skyline Higher Education Australia,Private
+04215H,Hunter Education Group Pty Ltd,Private
+04216G,Royal Building Academy Pty Ltd,Private
+04217F,Melbourne Institute of Australia Pty Ltd,Private
+04218E,Global Leadership Institute,Private
+04219D,IIBIT AHE Pty Ltd,Private
+04220M,Institute of Management and Computing Pty Ltd,Private
+04221K,Realm Vista Pty Ltd,Private
+04222J,JMDEDU PTY LTD,Private
+04223H,AUSTRALIAN NURSING AND TRAINING SERVICES PTY LTD,Private
+04224G,GNNJ Pty Ltd,Private
+04225F,Scientific Research Development Institute of Technology Australia Pty Ltd,Private
+04226E,Kingswood Institute Pty Ltd,Private
+04227D,Xcelit Institute Pty Ltd,Private
+04228C,St Thomas College Pty Ltd,Private
+04229B,Imperial Engineering Education,Private
+04230J,BUYERS AGENT TRAINING PTY LTD,Private
+04231H,Astra Institute of Higher Education,Private
+04232G,Morwell Technical Institute Pty Ltd,Private
+04233F,Global Institute of Health Sciences Pty Ltd,Private
+04234E,City College Pty Ltd,Private
+04235D,Melbourne Institute of Business and Commerce Pty Ltd,Private
+04236C,Lifelong Learning Academy Pty Ltd,Private
+04237B,Australian Technical Training Institute of Queensland Pty Ltd,Private
+04238A,Australian Institute of Work-Integrated Education and Research Pty Ltd,Private
+04239M,IVBT Pty Ltd,Private
+04240G,IMPEL Education Pty Ltd,Private
+04241F,STAMFORD INTERNATIONAL COLLEGE PTY LTD,Private
+04242E,Complete Hospitality Training (Vic) Pty Ltd,Private
+04243D,HiTech Institute Australia Pty Ltd,Private
+04244C,Oxford College Australia Pty Ltd,Private
+04245B,Adelaide Institute of Hair & Beauty Pty Ltd,Private
+04246A,Academics Australia Pty Ltd,Private
+04247M,REDFORD INSTITUTE OF VOCATIONAL STUDIES PTY LTD,Private
+04248K,Australian Dance Institute Pty Ltd,Private
+04249J,Adelaide University,Government
+04250E,Princeton Education Group Pty Ltd,Private
+04251D,MARUTI GLOBAL PTY LTD,Private
+04252C,Complete Learning Solutions Pty Ltd,Private
+04253B,Monday College Pty Ltd,Private
+04254A,Finix Institute Pty Ltd,Private
+04255M,Opal Education Group Pty Ltd,Private
+04256K,Aurora Institute of Australia Pty Ltd,Private
+04257J,G5 BROTHERS PTY LTD,Private
+04258H,Melvic College Australia Pty Ltd,Private
+04259G,Orange English Pty Ltd,Private
+04260C,Western Star Academy Pty Ltd,Private
+04261B,Kentford International College Pty Ltd,Private
+04262A,Stem House Pty Ltd,Private
+04264K,Diverse Solutions Pty Ltd,Private

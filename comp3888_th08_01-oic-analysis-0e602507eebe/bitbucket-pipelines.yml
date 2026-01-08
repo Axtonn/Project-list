@@ -1,0 +1,51 @@
+#  Template python-build
+
+#  This template allows you to validate your python code.
+#  The workflow allows running tests and code linting on the default branch.
+
+image: python:3.10
+
+# Use Selenium's official Chrome image (https://hub.docker.com/r/selenium/standalone-chrome) for testing web-scraping
+definitions:
+  services:
+    chrome:
+      image: selenium/standalone-chrome
+
+pipelines:
+  default:
+    - step:
+        name: Install Dependencies
+        caches:
+          - pip
+        services:
+          - chrome
+        script:
+          # Install Chrome and dependencies
+          #- apt-get update -qy
+          #- apt-get install -y default-jre
+          #- apt-get update
+          #- apt-get install -y wget unzip curl
+          #- wget https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          #- dpkg -i google-chrome-stable_current_amd64.deb || apt --fix-broken install -y
+
+          # Install Python dependencies
+          - python3 --version
+          - python3 -m venv venv
+          - ls -al  # Check if the venv directory exists and its contents
+          - if [ ! -d "venv/bin" ]; then echo "Virtual environment not created!"; exit 1; fi
+          - . venv/bin/activate  # Ensure venv/bin/activate exists before activating
+          - pip3 install --upgrade pip
+          - pip install -r requirements.txt
+          - pip install pytest
+          - pip install coverage
+          - pip install fuzzywuzzy
+          - pip install nltk
+
+          # avoid running test first to finish setting up pipeline
+          #- pwd
+          #- ls -al test
+          #- ls -al test/unit_tests
+          #- ls -al test/unit_tests/test_data
+          - make test
+
+

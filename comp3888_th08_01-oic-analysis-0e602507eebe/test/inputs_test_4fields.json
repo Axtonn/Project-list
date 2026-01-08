@@ -1,0 +1,21 @@
+{
+    "inputs": [
+        {
+            "code": "0603",
+            "name": "Nursing"
+        },
+        {
+            "code": "0303",
+            "name": "Process and Resources Engineering"
+        },
+        {
+            "code": "0201",
+            "name": "Computer Science"
+        },
+        {
+            "code": "0811",
+            "name": "Banking, Finance and Related Fields"
+        }
+    ],
+    "student_id": 3
+}
