@@ -6,7 +6,7 @@
 
 <br />
 
-**_OldPhoneDeals_** is an eCommerce web application developed for COMP4347 Web Application Development. Built using the MERN stack (MongoDB, Express, React, Node.js), this project showcases a complete three-tier architecture supporting both user and admin functionality. The platform allows users to browse, search, filter, and purchase secondhand phones, as well as manage their listings and reviews. It also implements essential features such as user authentication, email verification, wishlist management, and a checkout process.
+**_OldPhoneDeals_** is an eCommerce web application. Built using the MERN stack (MongoDB, Express, React, Node.js), this project showcases a complete three-tier architecture supporting both user and admin functionality. The platform allows users to browse, search, filter, and purchase secondhand phones, as well as manage their listings and reviews. It also implements essential features such as user authentication, email verification, wishlist management, and a checkout process.
 
 <center>
   <img src="frontend/public/home.png" width="512">
