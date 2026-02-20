@@ -1,151 +1,111 @@
-<br />
-<div align="center">
-    <img src="frontend/public/nokia.png" alt="Logo" width="60">
-    <h3 align="center">OldPhoneDeals</h3>
-</div>
+# OldPhoneDeals 
 
-<br />
+This repository contains a MERN-style phone marketplace app under `website/`:
+- `website/frontend`: React + Vite client
+- `website/backend`: Express + Mongoose API
+- `website/backend/jsondata`: seed JSON files
 
-**_OldPhoneDeals_** is an eCommerce web application. Built using the MERN stack (MongoDB, Express, React, Node.js), this project showcases a complete three-tier architecture supporting both user and admin functionality. The platform allows users to browse, search, filter, and purchase secondhand phones, as well as manage their listings and reviews. It also implements essential features such as user authentication, email verification, wishlist management, and a checkout process.
+Other top-level folders:
+- `dataset/`: source dataset and default brand images
+- `WebApp/`: legacy leftover folder (not part of the running app)
 
-<center>
-  <img src="frontend/public/home.png" width="512">
-  <p><em>Homepage of OldPhoneDeals</em></p>
-</center>
+## What The Codebase Does Today
 
-A dedicated admin interface enables site administrators to manage users, listings, and reviews, monitor sales and activity logs, and enforce platform policies. The application adheres to SPA principles, follows the MVC design pattern, and integrates robust security practices including password hashing and session handling. All interactions are handled asynchronously to ensure a responsive user experience, and the system is designed to scale dynamically beyond the provided dataset.
+### User-side features
+- Browse active listings from MongoDB.
+- Search listings by title and filter by brand and max price.
+- View "Sold Out Soon" (lowest non-zero stock) and "Best Sellers" (highest average rating with at least 2 reviews).
+- Open a listing detail panel with seller name, stock, reviews, and add-to-cart flow.
+- Submit reviews (1-5 rating + comment, max 200 chars).
+- Toggle review visibility if you are the listing owner or review author.
+- Add/remove wishlist items.
+- Checkout from cart (stored in `localStorage`) and log purchase events to `SalesLog`.
 
-<br>
+### Authentication and account management
+- User sign-up with password complexity validation.
+- Email verification flow before first user sign-in.
+- Password reset via emailed token link.
+- Profile update (requires password confirmation).
+- Password change with email notification.
+- Cookie-based JWT session handling (`httpOnly` cookie).
 
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+### Seller features
+- Create listings from profile (`multipart/form-data` with image upload).
+- Enable/disable own listings.
+- Delete own listings.
+- View comments on own listings.
 
+### Admin features
+- Separate admin sign-in endpoint and admin-only view.
+- Manage users: view, edit basic fields, enable/disable account, delete.
+- Manage listings: edit fields, enable/disable, delete.
+- Moderate reviews: hide/show/delete.
+- View listing create/delete logs.
+- Export sales logs as JSON file (`sales_export.json`).
+- Admin action logging in `AdminLog` for key moderation actions.
+- Idle auto-logout behavior in frontend for admin sessions (60s inactivity timer).
 
-# Getting started
+## Data Layer Notes
 
-## Install dependencies
+- MongoDB database name: `ecommerce-database`.
+- On backend startup, if collections are empty:
+  - users are seeded from `backend/jsondata/userlist.json`
+  - listings are seeded from `backend/jsondata/phonelisting.json`
+  - a default admin user is created (`admin@example.com` / password hash for `asd`)
+- Current seed files contain:
+  - 250 users
+  - 112 listings
 
-**1. Clone this repository and navigate to it in your terminal.**
+## Tech Stack
 
-   ```bash
-   cd website/
-   ```
+- Frontend: React 19, React Router, Axios, Vite
+- Backend: Node.js, Express, Mongoose, JWT, bcrypt, multer, nodemailer
+- Database: MongoDB
 
-**2. Install dependencies for both backend and frontend scripts.**
-   ```bash
-   cd frontend
-   npm install
+## Run Locally
 
-   cd ../backend
-   npm install
-   ```
-
-**3. Ensure MongoDB Tools are installed**
-
-   Make sure the following are already installed on your machine:
-   - MongoDB Server
-   - mongosh
-   - MongoDB Database Tools (for `mongoimport`)
-
-   Add MongoDB to System Path (Windows):
-   1. Search for **Environment Variables** in Windows.
-   2. Under **System Variables**, find and select `Path`, then click **Edit**.
-   3. Click **New** and add the paths for:
-      - Example path: `C:\Program Files\MongoDB\Server\8.0\bin`
-      - Get the path by right clicking the bin folder of installed extensions and clicking `Copy Path` for:
-         - MongoDB Server 
-         - MongoDB Shell
-         - MongoDB Tools
-   4. Restart **CMD** to apply changes.
-   5. If you have completed the above processes correctly, then you can see the results of:
-   ```bash
-   mongod --version
-   mongosh --version
-   mongoimport --version
-   ```
-
-## Setup the MongoDB Database
-
-1. Create the database directory in the backend directory
-   ```bash
-   # Windows
-   md data\db
-
-   # Unix
-   mkdir -p data/db
-   ```
-
-2. Start the MongoDB server
-   ```bash
-   # Windows
-   mongod --dbpath=.\data\db
-
-   # Unix
-   mongod --dbpath=data/db
-   ```
-
-Leave this terminal (Terminal 1) running. This is your local MongoDB server.
-
-## Run the Project
-
-1. Place your JSON data in the `backend/jsondata` directory. This should be two separate files: `phonelisting.json` for listing information and `userlist.json` for user information.
-
-2. Ensure you have the populated `.env` file placed in the `backend` folder. It contains important private keys required for user management.
-
-3. In a **new terminal** (Terminal 2), run:
-   ```bash
-   cd backend
-   node app.js
-   ```
-
-4. In a **new terminal** (Terminal 3), run:
-   ```bash
-   cd frontend
-   npm run dev
-   ```
-
-You should now be able to view the project at ``localhost:5173``.
-
-## Debugging notes 
-
-If have a user login or listings related error such as having users or listings before populating the database, make sure to go to the database. 
-
-If you have users already and you run the backend, you will be never be able to login as admin as admin is added once you run an empty userlist on the backend.
-
+1. Install dependencies:
 ```bash
-use ecommerce-database
+cd website/frontend
+npm install
 
-db.users.drop()
-db.listings.drop()
+cd ../backend
+npm install
 ```
 
-Re-run the backend node app.js in your backend terminal and it will repopulate the database with the users and listings again.
+2. Create `website/backend/.env` with:
+```env
+JWT_SECRET=your_jwt_secret
+EMAIL_USER=your_gmail_address
+EMAIL_PASS=your_gmail_app_password
+```
 
-This means that you have to sign up again and follow the steps to log in once more.
+3. Start MongoDB (from `website/`):
+```bash
+mongod --dbpath=./data/db
+```
 
-### The admin credentials
-   ```bash
-   firstname: 'Admin',
-   lastname: 'User',
-   email: 'admin@example.com',
-   password: 'asd'
-   ```
+4. Start backend (new terminal):
+```bash
+cd website/backend
+node app.js
+```
 
-### Sign up and sign in.
+5. Start frontend (new terminal):
+```bash
+cd website/frontend
+npm run dev
+```
 
-When signing up make sure you use a valid GMAIL account that you can log into and verify.
-All new passwords should also be a minimum of 8 characters with 1 Capital letter, number and symbol.
+6. Open:
+- Frontend: `http://localhost:5173`
+- Backend: `http://localhost:3000`
 
-For the email verification step, make sure to check your SPAM folders and click the link to verify your email and log in again to go inside the web app.
+## Current Constraints / Known Gaps
 
-### .env
-
-This submission contains a .env file with the following content 
-
-JWT_SECRET=r82gh!@94jHG!@fklgshga@Yp*r723hfhs98d
-EMAIL_USER=axtoncahyadi@gmail.com
-EMAIL_PASS=bcww lcxs whni xfsd
-EMAIL_FROM=axtoncahyadi@gmail.com
+- CORS origin in backend is hardcoded to a specific ngrok URL in `backend/app.js`; local frontend origin may need adjustment.
+- Some frontend URLs are hardcoded to `http://localhost:3000`.
+- `GET /api/listings/:id` controller currently does not send listing data in its success path.
+- Add-listing UI sends a brand value, but backend `createListing` currently stores new listings with brand `"Generic"`.
+- No automated test suite is configured in the repository.
 
